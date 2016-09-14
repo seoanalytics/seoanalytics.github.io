@@ -25,7 +25,7 @@ description: "An archive of posts sorted by categories."
 {% for tag in site.categories %} 
   <!--<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2> -->
   <ul class="post-list">
-    {% assign pages_list = tag[0] %}  
+    {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
