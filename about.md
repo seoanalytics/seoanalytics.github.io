@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+title: Fabiola Faria
+tags: [Web Analytics, SEO]
 imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/fabiola-faria-perfil.jpg" alt="Fabiola Faria Perfil">
+  <figcaption>Fabiola Faria</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
