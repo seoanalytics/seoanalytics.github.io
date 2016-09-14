@@ -38,8 +38,8 @@ links:
     url: /
     external: false
     icon: home
-  - title: Posts Recentes
-    url: /posts-recentes
+  - title: Posts
+    url: /posts
   - title: SEO
     url: /seo-otimizacao-de-sites
   - title: Web Analytics
