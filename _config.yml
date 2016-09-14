@@ -11,22 +11,22 @@ url: ''
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Fabiola Faria
+  avatar:         fabiola-faria-perfil.jpg
+  email:          fabiola.analytics@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Especialista em SEO e Web Analytics
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  linkedin:       UAISOH
+  twitter:        
+  facebook:       
+  github:               
+  instagram:      
+  linkedin:       
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -72,7 +72,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
+  siteurl: 'https://seoanalytics.github.io/'
   relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
