@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /sobre-mim/index.html
 title: Fabiola Faria
 tags: [Web Analytics, SEO]
 imagefeature: fourseasons.jpg
