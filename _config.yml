@@ -42,8 +42,10 @@ links:
     url: /posts-recentes
   - title: SEO
     url: /seo-otimizacao-de-sites
-  - title: Sobre mim
-    url: /sobre-mim
+  - title: Web Analytics
+    url: /web-analytics
+#   title: Sobre mim
+#   url: /sobre-mim
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
