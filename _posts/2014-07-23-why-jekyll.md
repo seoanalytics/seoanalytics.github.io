@@ -4,7 +4,7 @@ title: "Why Jekyll?"
 description: 
 headline: 
 modified: 2014-07-23
-category: webdevelopment
+category: SEO
 tags: [jekyll]
 imagefeature: 
 mathjax: 
