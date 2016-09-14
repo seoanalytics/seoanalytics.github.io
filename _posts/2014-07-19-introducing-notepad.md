@@ -4,7 +4,7 @@ title: "Introducing Notepad"
 description: 
 headline: 
 modified: 2014-07-19
-category: personal
+category: SEO
 tags: []
 imagefeature: cover1.jpg
 comments: true
