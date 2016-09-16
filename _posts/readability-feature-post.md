@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Post with Cover Image and Text"
+title: "O que é o Google Analytics?"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 category: web-analytics
 tags: [Web Analytics]
 imagefeature: cover9.jpg
 share: true
 ---
+
+Oi Pessoal! Este é meu primeiro post de uma série de posts que pretendo manter atualizado no Blog e nada melhor do que iniciarmos falando um pouquinho sobre Google Analytics! Afinal sem a mensuração de dados, análise de tráfego de origem, análise de conversão e sem metas definidas através de ferramentas de Web Analytics não conseguimos acompanhar os resultados de nossas ações de marketing digital: Social, Adwords, Email, Conteúdo, e por suposto, SEO.
+
+## O que é o Google Analytics?
+
+![Laptop]({{ site.url }}/images/cover3.jpg)
 
 This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
 
