@@ -6,6 +6,7 @@ category: web-analytics
 tags: [Web Analytics]
 imagefeature: cover9.jpg
 share: true
+published: false 
 ---
 
 Oi Pessoal! Este é meu primeiro post de uma série de posts que pretendo manter atualizado no Blog e nada melhor do que iniciarmos falando um pouquinho sobre Google Analytics! Afinal sem a mensuração de dados, análise de tráfego de origem, análise de conversão e sem metas definidas através de ferramentas de Web Analytics não conseguimos acompanhar os resultados de nossas ações de marketing digital: Social, Adwords, Email, Conteúdo, e por suposto, SEO.
