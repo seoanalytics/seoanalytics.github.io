@@ -17,11 +17,11 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Especialista em SEO e Web Analytics
   # Social networking links used in footer. Update and remove as you like.
-  twitter:  https://twitter.com/fabiola_faria      
-  facebook: https://www.facebook.com/fabiola.faria      
-  github:   https://github.com/fabiolafaria            
-  instagram: https://www.instagram.com/fabiolafaria_     
-  linkedin: https://www.linkedin.com/in/fabiolafaria      
+  twitter:  fabiola_faria      
+  facebook: fabiola.faria      
+  github:   fabiolafaria            
+  instagram: fabiolafaria_     
+  linkedin: fabiolafaria      
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
