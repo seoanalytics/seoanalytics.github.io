@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O que é o Google Analytics?"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "Você sabe o que é Web Analytics, Data Analytics ou Google Analytics? Vem comigo que falaremos de forma fácil e descomplicada sobre o mundo de Digital Analytics pra você."
 category: web-analytics
 tags: [Web Analytics]
 imagefeature: cover9.jpg
@@ -14,9 +14,11 @@ Oi Pessoal! Este é o nosso primeiro post, e nada melhor do que iniciarmos falan
 
 Segundo Avinash Kaushik Web Analytics é:
 
-A análise de dados qualitativos e quantitativos dos seus negócios e da concorrência a fim de conseguir uma melhoria contínua da experiência online dos seus clientes e dos clientes em potencial, o que se traduz nos seus resultados desejados (on-line e off-line).
+>A análise de dados qualitativos e quantitativos dos seus negócios e da concorrência a fim de conseguir uma melhoria contínua da experiência online dos seus clientes e dos clientes em potencial, o que se traduz nos seus resultados desejados (on-line e off-line).
 
 Em outras palavras, podemos dizer criar estratégias sólidas de Marketing Digital depende diretamente da análise de dados do seu negócio, pois o monitoramento de informações referentes às estatísticas de seu site possibilita o levantamento de possíveis ações de melhorias e otimizações.
+
+Existe um vídeo muito legal do Avinash kaushik falando sobre Web Analytics, não é um vídeo muito novo, mas considerando a  
 
 Diversas ferramentas estão disponíveis no mercado para o monitoramento de dados, mas o Google Analytics ainda é a ferramenta mais utilizada em toda a internet.
 
