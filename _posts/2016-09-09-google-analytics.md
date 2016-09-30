@@ -8,7 +8,7 @@ imagefeature: cover9.jpg
 share: true
 ---
 
-Oi Pessoal! Este é o post de uma série de posts que pretendo publicar no Blog, e nada melhor do que iniciarmos falando um pouquinho sobre <b>Google Analytics</b>! Você sabe o que é Web Analytics, Data Analytics ou Google Analytics? Vem comigo que falaremos de forma fácil e descomplicada sobre o mundo de Digital Analytics!
+Oi Pessoal! Este é o nosso primeiro post, e nada melhor do que iniciarmos falando um pouquinho sobre <b>Google Analytics</b>! Você sabe o que é Web Analytics, Data Analytics ou Google Analytics? Vem comigo que falaremos de forma fácil e descomplicada sobre o mundo de Digital Analytics pra você.
 
 ## Então vamos falar de Web Analytics
 
