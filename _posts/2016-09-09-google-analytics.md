@@ -21,7 +21,7 @@ Em outras palavras, podemos dizer que criar estratégias sólidas de Marketing D
 
 Indico uma entrevista muito legal com o Avinash kaushik falando sobre Web Analytics e importância do monitoramento de dados em qualquer negócio, se você quer se familiarizar com Data Analytics vale muito a pena assistir.
 
-{% youtube A6Zryx1bgE0 500 400 %}
+{% youtube A6Zryx1bgE0 %}
 
 # E o Google Analytics?
 
