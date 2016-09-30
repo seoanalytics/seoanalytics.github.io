@@ -22,5 +22,5 @@ Diversas ferramentas estão disponíveis no mercado para o monitoramento de dado
 
 ![Fatia de Mercado do Google Analytics]({{ site.url }}/images/fatia-mercado-google-analytics.png)
 
-Pensando nessa grande representatividade do Mercado do Google Analytics (82%) entendemos parte da importância da utilização dessa ferramenta. Se você está se perguntando "o que ela tem de tão especial e porque realmente eu deveria utilizá-la em meu site?", você já está entendendo o mundo de analytics, a dúvida, a pergunta ou o questionamento e vamos falar nisso agora!
+Pensando nessa grande representatividade do Mercado do Google Analytics (82%) entendemos parte da importância da utilização dessa ferramenta. Se você está se perguntando "o que ela tem de tão especial e porque realmente eu deveria utilizá-la em meu site?", você já está entendendo o mundo de analytics, pois a dúvida, a pergunta ou o questionamento faz parte do nosso mundo em todo o momento. Vamos falar nas vantagens do Google Analytics agora!
 
