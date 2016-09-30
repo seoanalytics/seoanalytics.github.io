@@ -4,7 +4,7 @@ title: "O que é o Google Analytics?"
 description: "Você sabe o que é Web Analytics, Data Analytics ou Google Analytics? Vem comigo que falaremos de forma fácil e descomplicada sobre o mundo de Digital Analytics pra você."
 category: web-analytics
 tags: [Web Analytics]
-imagefeature: google-analytics.jpg
+imagefeature: google-analytics-2.jpg
 share: true
 ---
 
