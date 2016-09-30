@@ -41,7 +41,10 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    xml-simple (1.1.5)
     yajl-ruby (1.2.1)
+    youtube (0.8.6)
+      xml-simple (>= 1.0.9)
 
 PLATFORMS
   ruby
@@ -53,6 +56,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   pygments.rb
+  youtube
 
 BUNDLED WITH
    1.13.1
