@@ -21,7 +21,9 @@ Em outras palavras, podemos dizer que criar estratégias sólidas de Marketing D
 
 Indico uma entrevista muito legal com o Avinash kaushik falando sobre Web Analytics e importância do monitoramento de dados em qualquer negócio, se você quer se familiarizar com Data Analytics vale muito a pena assistir.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A6Zryx1bgE0" frameborder="0" allowfullscreen></iframe>
+{% youtube A6Zryx1bgE0 %}
+
+# E o Google Analytics?
 
 Diversas ferramentas estão disponíveis no mercado para o monitoramento de dados, mas o Google Analytics ainda é a ferramenta mais utilizada em toda a internet.
 
