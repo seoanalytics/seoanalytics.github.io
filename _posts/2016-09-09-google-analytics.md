@@ -23,8 +23,6 @@ Indico uma entrevista muito legal com o Avinash kaushik falando sobre Web Analyt
 
 {% youtube A6Zryx1bgE0 %}
 
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A6Zryx1bgE0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
 # E o Google Analytics?
 
 Diversas ferramentas estão disponíveis no mercado para o monitoramento de dados, mas o Google Analytics ainda é a ferramenta mais utilizada em toda a internet.
