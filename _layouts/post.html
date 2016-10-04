@@ -19,6 +19,11 @@ Description: Awesome dude, awesome life
 {% include head.html %}
 {% if site.dropcap %}<style type="text/css">@media only screen and (min-width:43.75em){.notepad-post-content div>p:first-child:first-letter{float:left;font-size:4.688rem;line-height:4.375rem;padding-top:.25rem;padding-right:.5rem;padding-left:.188rem;font-family:serif}}</style>{% endif %}
     <style type="text/css">.fluid-width-video-wrapper{max-width: 900px; margin:0 auto;}</style>
+    <script type="text/javascript">
+        $(document).ready(function(){ 
+            $("#thing-with-videos").fitVids({ ignore: '.no-responsive'});
+        });
+    </script>
 </head>
 <body class="post-template" itemscope itemtype="http://schema.org/WebPage">  
 {% if page.imagefeature %}
