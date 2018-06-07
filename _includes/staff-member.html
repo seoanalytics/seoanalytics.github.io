@@ -1,0 +1,16 @@
+<section class="diagonal patterned">
+    <div class="container">
+    	<ul class="image-grid">
+	    {% for member in site.staff_members %}
+	    <li>
+    	        <a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
+    	    <div class="details">
+    		    <div class="name">{{ include.member.name }}</div>
+    		    <div class="position">{{ include.member.position }}</div>
+    	    </div>
+    	    </a>
+	    </li>
+	    {% endfor %}
+	</ul>
+</div>
+</section>

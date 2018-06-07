@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign about = site.pages | where: "path", "about.html" | first %}
+
+<section class="hero diagonal">
+	<div class="container">
+		{% if about.heading %}
+		<h2>{{ page.name }} | <a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a></h2>
+		{% endif %}
+		{% if page.subtitle %}
+			<p class="subtext">{{ page.subtitle }}</p>
+		{% endif %}
+	</div>
+</section>
+
+<section class="diagonal">
+	<div class="container">
+		<img src="{% include relative-src.html src=page.image_path %}" class="screenshot">
+			{{ content }}
+		</div>
+		<p><a href="{{ page.external_url }}">View {{ page.title }} &rarr;</a></p>
+	</div>
+</section>

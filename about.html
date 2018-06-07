@@ -1,0 +1,24 @@
+---
+title: About
+heading: Sobre Nós
+subtitle: Conheça nossa história.
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Members</a></p>
+		<ul class="image-grid">
+			{% for members in site.staff_members %}
+				<li>
+						<img src="{% include relative-src.html src=staff_members.image_path %}" alt="{{ staff_members.name }}">
+						<div class="details">
+							<div class="name">{{ staff_members.name }}</div>
+							<div class="position">{{ staff_members.position }}</div>
+						</div>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>
