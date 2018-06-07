@@ -1,27 +1,76 @@
-Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
-  
-Main Features:
+# Frisco
 
-* Zurb Foundation 5 – css framework
-* Scss files with settings file
-* Fullscreen post covers with header wich will be bright or dark according to background image
-* Fast and light
-* Font Awesome
-* Disqus comments integration
+App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
+Increase the web presence of a App with this configurable theme.
 
-You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
+![Frisco template screenshot](images/_screenshot.jpg)
 
-Credits:
+Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
-* Font Awesome [http://fontawesome.io](http://fontawesome.io)
-* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
-* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
-* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
-* There are also tools like jQuery, Modernizr, Normalize.
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
+## Features
 
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination
+* Post category pages
+* Disqus comments for posts
+* Staff and author system
+* Configurable footer
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
+## Setup
+
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics and Disqus keys to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+
+## Develop
+
+Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+
+Install the dependencies with [Bundler](http://bundler.io/):
+
+~~~bash
+$ bundle install
+~~~
+
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
+
+~~~bash
+$ bundle exec jekyll serve
+~~~
+
+## Editing
+
+Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+
+### Posts
+
+* Add, update or remove a post in the *Posts* collection.
+* The **Staff Author** field links to members in the **Staff Members** collection.
+* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
+
+### Contact Form
+
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+
+### Staff
+
+* Reused around the site to save multiple editing locations.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
