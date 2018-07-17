@@ -3,7 +3,7 @@ url: "https://seoanalytics.com.br"
 baseurl:
 google_analytics_key: UA-103037512-1
 google_maps_javascript_api_key:
-disqus_shortname: @fabiola_faria
+disqus_shortname: fabiola_faria
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: Jekyll template with example content for a web agency.
