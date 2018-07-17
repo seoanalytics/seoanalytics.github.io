@@ -1,7 +1,7 @@
 ---
 name: Fabiola Faria
 subtitle: Search Specialist | Data Analyst
-external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
+external_url: 'https://www.linkedin.com/in/fabiolafaria/'
 image_path: /images/fabiola-foto.jpg
 ---
 
