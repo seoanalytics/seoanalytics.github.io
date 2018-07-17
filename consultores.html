@@ -11,7 +11,7 @@ subtitle: Conheça consultores de Marketing Digital que são destaques no mercad
 			{% for cv in site.cv %}
 				<li>
 					<a href="{{ site.baseurl }}{{ cv.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+						<img src="{% include relative-src.html src=cv.image_path %}" alt="{{ person.name }}">
 						<div class="details">
 							<div class="name">{{ cv.name }}</div>
 							<div class="position">{{ cv.subtitle }}</div>
