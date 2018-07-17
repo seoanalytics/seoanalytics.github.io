@@ -8,13 +8,13 @@ subtitle: Conheça um pouco sobre minha experiência!
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_cv/" class="btn"><strong>&#9998;</strong>Manage Consultores</a></p>
 		<ul class="image-grid">
-			{% for client in site.clients %}
+			{% for cv in site.cv %}
 				<li>
-					<a href="{{ site.baseurl }}{{ client.url }}">
+					<a href="{{ site.baseurl }}{{ cv.url }}">
 						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
 						<div class="details">
-							<div class="name">{{ client.name }}</div>
-							<div class="position">{{ client.subtitle }}</div>
+							<div class="name">{{ cv.name }}</div>
+							<div class="position">{{ cv.subtitle }}</div>
 						</div>
 					</a>
 				</li>
