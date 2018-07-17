@@ -5,78 +5,89 @@ external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
 image_path: /images/fabiola-foto.jpg
 ---
 
-Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).Increase the web presence of a not for profit or cause website with this configurable theme.
+A qualified and highly experienced technical in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
 
-CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+## Tools:
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
-
-## Features
-
-* Pre-built pages
-* Pre-styled components
-* Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [Donorbox](https://donorbox.org/)
+* Search Console (Google Webmaster Tools)&nbsp;
+* Google Analytics, Power BI, Google Data Studio&nbsp;
+* SEMRush, DeepCrawl, Botify, Hrefs, Moz, Screaming Frog, Sensor Tower
+* Page Speed, GTMetrix, Webpage Test, Lighthouse in Dev, Pingdom
+* Google Tag Manager, &nbsp;
+* Visual Website Optimizer (VWO), Optimizely, Crazy Egg,
 * [MailChimp](https://mailchimp.com/)
 
-## Setup
+## Experience
 
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
-3. Get a workflow going to see your site’s output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+**SEO ANALYTICS - 2016 – 2018**&nbsp;- Data Analytics Consultant / SEO Consultant
 
-## Develop
+**VIVA DECORA - &nbsp;2016 – 2017 -&nbsp;**Senior SEO Specialist
 
-Cause was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+SEO Specialists in the Engineer Team of Viva Decora was responsible to increase a website's ranking in the most important search engines and implement online marketing strategies.
 
-Install the dependencies with [Bundler](http://bundler.io/):
+The main activities developed in Viva Decora are:
 
-```bash
-$ bundle install
-```
+* Define SEO strategies for Viva Decora and lead &nbsp;both the Engineering and B2C teams;
+* Define Viva Decora's ASO strategies and lead their execution with the Apps development team;
+* Define SEO strategies for videos and content, as well as follow new trends of engagement and organic visibility;
+* Define optimization metrics for search results, as well as data-driven SEO actions;
+* Reporting of visibility and traffic;
+* Dissemination of SEO culture across the Company;
+* Develop courses and Tech Talks to assist the Team;
+* Helping Viva Decora to turn into the biggest and best decoration site in Brazil;
+* Yes we are the first place in "Decora&ccedil;&atilde;o" (Decor in Brazil) on Google!
 
-Run `jekyll` commands through Bundler to ensure you’re using the right versions:
+**APIS3 CONSULTING - 2014 – 2016**&nbsp;- **DATA ANALYST**
 
-```bash
-$ bundle exec jekyll serve
-```
+Data Analyst in the Data Analytics Team, which aims to conduct qualitative and quantitative data analysis, and contributing with continuous improvements in website performance.
 
-## Editing
+It is part of the daily routine:
 
-Cause is already optimised for updating pages, company details and footer elements in CloudCannon.
+* Strong knowledge of Web Analytics, SEO and Performance;
+* Planning actions and KPIs;
+* Creation, implementation and updating of Google Analytics properties and views;
+* Implementation and validation of tags by Google Tag Manager;
+* Creation of monitoring panels and Dashboards;
+* Reporting to support decision making,
+* A / B tests oriented to conversion optimization;
 
-## SEO Tag
+Used Tools: Google Analytics, Google Tag Manager, CrazyEgg, Optimizely, Visual Website Optimizer, PageSpeed, WebPageTest, Search Console, Supermetrics, Youtube Analytics, Wrike, among others.
 
-This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin. You should at least set a title in front matter on each page. Have a look at the [project page](https://github.com/jekyll/jekyll-seo-tag) for more options.
+**APIS3 CONSULTING - 2014 – 2016**&nbsp;- **SEO ANALYST**
 
-## Google Analytics
+SEO Analyst in the SEO Team, which aims to conduct qualitative and quantitative data analysis, and contributing with continuous improvements in website performance.
 
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
+It is part of the daily routine:
 
-1. Add your Google Analytics key to `_config.yml`
-2. Run your site in production `JEKYLL_ENV=production`. This is the default in CloudCannon and GitHub Pages.
+* Creation of website diagnostics;
+* Monitoring and analysis of SEO metrics;
+* Creation of detailed action plans to support decision making;
+* Planning and execution of usability tests;
+* A / B test and multivariate tests;
+* Coordinate and guide the implementation of proposals in development teams;
+* Define and negotiate deadlines and scopes of projects;
+* Analyze competitors, identify and recommend opportunities for improvement;
+* Performance audits and optimization suggestions on the page
 
-## Donorbox
+Used Tools: Google Analytics, Search Console, DeepCrawl, SEMRush, Hrefs, SearchMetrics, ScreamingFrog, PageSpeed, WebPageTest, GTmetrix, Wrike, Wordpress, Youtube Analytics, etc.
 
-[Donorbox](https://donorbox.org/) is a third party embeddable donation form for websites. To install:
+[SEE MORE EXPERIENCE ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
 
-1. Set up a campaign on Donorbox
-2. Copy the embed code from the Dashboard screen
-3. Paste it into `donation_embed` in the `index.html` front matter
+## Education
 
-## Mailchimp
+**2009-2013** B.Sc. Degree in Information Systems (NFQ Level 8) - UNIFEI - Federal University of Itajub&aacute; (Brazil)
 
-[Mailchimp](https://mailchimp.com/) is a third party embeddable newsletter for websites. To install:
+**2017-2018** Data Science for Business - Udacity Nanodegree Program (Online)
 
-1. Set up a campaign on Mailchimp
-2. Find the embed code for the sign up form
-3. Copy the `<form>`’s action url
-4. Paste it into `newsletter_action` in the `index.html` front matter
+## Training and Languages
 
-### Company details
+&nbsp;
 
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+* 2018 Alura Course: Python 2 - Programming with Python
+* 2018 Alura Course: Python 3 - Programming with Python
+* 2017 Udacity Course: Programming Foundations with Python
+* 2016 Google Course: Website Performance Optimization
+* 2015 Google Tag Manager Fundamentals Certification
+* 2015 Google Analytics Certification
+* 2014 USP - University of S&atilde;o Paulo: Specialization in Management of IT Projects&nbsp;
+* 2004 ITA -Technological Institute of Aeronautics: Academic Extension of Physics Course &nbsp;&nbsp;
