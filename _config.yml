@@ -25,7 +25,7 @@ timezone: Etc/UTC
 collections:
   staff_members:
     output: true
-  clients:
+  cv:
     output: true
 
 paginate: 10
@@ -60,7 +60,7 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "clients"
+      type: "cv"
     values:
       layout: "client"
       _options:
