@@ -62,7 +62,7 @@ defaults:
       path: ""
       type: "cv"
     values:
-      layout: "client"
+      layout: "cv"
       _options:
         image_path:
           width: 2000
