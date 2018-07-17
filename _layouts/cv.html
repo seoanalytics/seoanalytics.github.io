@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-{% assign portfolio = site.pages | where: "path", "portfolio.html" | first %}
+{% assign portfolio = site.pages | where: "path", "consultores.html" | first %}
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if portfolio.heading %}
-		<h2>{{ page.name }} | {{client.position}}</a></h2>
+		{% if consultores.heading %}
+		<h2>{{ page.name }} | {{cv.position}}</a></h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
