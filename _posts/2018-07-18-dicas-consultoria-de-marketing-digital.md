@@ -1,7 +1,7 @@
 ---
 title: 'Consultoria de Marketing Digital : 7 Dicas para Escolher o Melhor Serviço'
 categories:
-  - Marketing Digital
+  - Consultoria
 author_staff_member: james
 show_comments: true
 ---
