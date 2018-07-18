@@ -1,6 +1,6 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
+name: Você Aqui
+subtitle: Consultoria de Marketing Digital
 external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
 image_path: /images/avatar2.png
 ---
