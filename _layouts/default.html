@@ -40,7 +40,7 @@
 					{% for column in site.data.footer %}
 						<ul class="footer-links">
 							<li>
-								<h2>{{ column.title }}</h2>
+								<h3>{{ column.title }}</h3>
 							</li>
 							{% for link in column.links %}
 								<li>
@@ -58,7 +58,7 @@
 
 					<ul class="footer-links">
 						<li>
-							<h2>{{ site.data.company.title }}</h2>
+							<h4>{{ site.data.company.title }}</h4>
 						</li>
 						<li>{{ site.data.company.description }}</li>
 						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
