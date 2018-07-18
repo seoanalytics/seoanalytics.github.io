@@ -1,7 +1,7 @@
 ---
 name: Ana Paula Peres
 subtitle: Marketing de Performance
-external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
+external_url: 'https://www.linkedin.com/in/anapaulagomes/'
 image_path: /images/ANA-PAULA-PERES.jpg
 ---
 
