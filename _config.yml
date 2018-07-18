@@ -10,9 +10,9 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 # Author settings
-author: Fabiola Faria # add your name
-author-pic: fabiola-foto.jpg
-about-author: Só um teste de author.
+  author: Fabiola Faria # add your name
+  author-pic: fabiola-foto.jpg
+  about-author: Só um teste de author.
   name:
   email:
   twitter: # twitter username without the @ symbol
