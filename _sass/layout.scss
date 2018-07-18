@@ -80,6 +80,13 @@ section {
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
+		
+		h1, p {
+			max-width: 90%;
+		}
+
+		h1 {
+			font-size: 3.5rem;
 
 		h2, p {
 			max-width: 90%;
