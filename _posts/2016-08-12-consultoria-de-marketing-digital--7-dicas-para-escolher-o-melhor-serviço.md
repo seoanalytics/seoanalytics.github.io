@@ -1,5 +1,5 @@
 ---
-title: The history of marketing
+title: 'Consultoria de Marketing Digital : 7 Dicas para Escolher o Melhor Serviço'
 categories:
   - SEO
 author_staff_member: james
