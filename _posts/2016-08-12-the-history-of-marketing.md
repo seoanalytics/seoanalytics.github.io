@@ -1,7 +1,7 @@
 ---
 title: The history of marketing
 categories:
-  - marketing
+  - SEO
 author_staff_member: james
 show_comments: true
 ---
@@ -18,9 +18,7 @@ The history of marketing is to a large extent a product of Internet's history as
 
 The study of the history of marketing as an academic field emerged only recently. Controversies and disputes abound in the field. The publication in 1976 of the book The History of Marketing Thought, by Robert Bartels marks a turning-point in marketing thought. Since then, academics specializing in marketing decided to imitate economics, distinguishing theory and practice. Two different fields of study emerged:
 
-the history of marketing thought, giving theoretical accounts
-marketing history, focusing on the history of marketing practice
-This division parallels the distinction between the history of economic thought and economic history.
+the history of marketing thought, giving theoretical accountsmarketing history, focusing on the history of marketing practiceThis division parallels the distinction between the history of economic thought and economic history.
 
 ![Clock](https://unsplash.it/960/600?image=175)
 
