@@ -1,8 +1,8 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
+name: Ana Paula Peres
+subtitle: Marketing de Performance
 external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
-image_path: /images/avatar2.png
+image_path: /images/ANA-PAULA-PERES.jpg
 ---
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).Start documenting your product, application, service or website with this configurable theme.
