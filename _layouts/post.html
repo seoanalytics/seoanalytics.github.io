@@ -7,23 +7,21 @@ layout: page
 		<div class="post-content">
 			{{ content }}
 		</div>
-	</div>
-</section>
-
-
-{% if page.author_staff_member %}
-	<!-- <section class="diagonal patterned"> -->
+		{% if page.author_staff_member %}
 		<div class="container">
 			<h2>Author</h2>
+			{% include author-box.html %}
+		</div>
+        {% endif %}
+	</div>
+</section>
+	<!-- <section class="diagonal patterned"> -->
+		
 		<!--	<ul class="image-grid">
 				{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
 				{% assign author = site.staff_members | where: "url", author_id | first %} 
 
 				<li>{% include staff-member.html member=author %}</li> </ul>-->
-				{% include author-box.html %}
-			
-		</div>
-{% endif %}
 
 <section class="diagonal alternate">
 	<div class="text-container">
