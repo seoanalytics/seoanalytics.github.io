@@ -1,8 +1,8 @@
 ---
-name: Você Aqui
-subtitle: Consultoria de Marketing Digital
-external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
-image_path: /images/avatar2.png
+name: Ana Carolina Belarmino
+subtitle: SEM Specialist
+external_url: 'https://www.linkedin.com/in/anacarolinabelarmino/'
+image_path: /images/ana-carolina-belarmino.jpeg
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).Increase the web presence of a App with this configurable theme.
