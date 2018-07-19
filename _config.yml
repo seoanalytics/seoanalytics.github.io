@@ -64,9 +64,9 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "cv"
+      type: "consultoria"
     values:
-      layout: "cv"
+      layout: "consultoria"
       _options:
         image_path:
           width: 2000
