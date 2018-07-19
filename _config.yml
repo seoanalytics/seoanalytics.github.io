@@ -29,7 +29,7 @@ timezone: Etc/UTC
 collections:
   staff_members:
     output: true
-  cv:
+  consultor:
     output: true
 
 paginate: 10
