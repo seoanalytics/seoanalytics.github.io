@@ -24,6 +24,22 @@ subtitle: Somos consultoras especializadas em SEO, Social Media, Performance, M�
 			<p class="editable">
 				 Analisamos as jornadas do cliente, o desempenho dos canais de tráfego e o cenário competitivo para planejar sua estratégia de crescimento e aumentar sua conversão. Se você precisa de uma estratégia de Inteligência Digital você está no lugar certo!
 			</p>
+			<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_consultoria/" class="btn"><strong>&#9998;</strong>Manage Consultores</a></p>
+		<ul class="image-grid">
+			{% for consultoria in site.consultoria %}
+				<li>
+					<a href="{{ site.baseurl }}{{ consultoria.url }}">
+						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ consultoria.name }}</div>
+							<div class="position">{{ consultoria.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
 		</div>
 	</div>
 </section>
