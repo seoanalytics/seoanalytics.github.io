@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-{% assign consultores = site.pages | where: "path", "consultores.html" | first %}
+{% assign consultoria = site.pages | where: "path", "consultoria.html" | first %}
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if consultores.heading %}
+		{% if consultoria.heading %}
 		<h2>{{ page.name }}</h2>
 		{% endif %}
 		{% if page.subtitle %}
