@@ -8,7 +8,7 @@ subtitle: Conheça consultores de Marketing Digital independentes que são desta
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_consultoria/" class="btn"><strong>&#9998;</strong>Manage Consultores</a></p>
 		<ul class="image-grid">
-			{% for cv in site.cv %}
+			{% for consultoria in site.consultoria %}
 				<li>
 					<a href="{{ site.baseurl }}{{ consultoria.url }}">
 						<img src="{% include relative-src.html src=cv.image_path %}" alt="{{ person.name }}">
