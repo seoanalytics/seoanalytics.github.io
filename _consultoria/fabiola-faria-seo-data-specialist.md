@@ -73,8 +73,6 @@ Used Tools: Google Analytics, Search Console, DeepCrawl, SEMRush, Hrefs, SearchM
 
 [SEE MORE EXPERIENCE ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="vertical" data-theme="light" data-vanity="fabiolafaria"><a class="LI-simple-link" href='https://ie.linkedin.com/in/fabiolafaria?trk=profile-badge'>Fabiola Faria - Data Analytics, SEO</a></div>
-
 ## Education
 
 **2009-2013** B.Sc. Degree in Information Systems (NFQ Level 8) - UNIFEI - Federal University of Itajub&aacute; (Brazil)
