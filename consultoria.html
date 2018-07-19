@@ -11,7 +11,7 @@ subtitle: Conheça consultores de Marketing Digital independentes que são desta
 			{% for consultoria in site.consultoria %}
 				<li>
 					<a href="{{ site.baseurl }}{{ consultoria.url }}">
-						<img src="{% include relative-src.html src=cv.image_path %}" alt="{{ person.name }}">
+						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}">
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
 							<div class="position">{{ consultoria.subtitle }}</div>
