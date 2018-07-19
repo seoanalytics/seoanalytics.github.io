@@ -7,7 +7,7 @@ subtitle: Conheça Especialistas de Marketing Digital que são destaques no merc
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_consultoria/" class="btn"><strong>&#9998;</strong>Manage Consultores</a></p>
 		<ul class="image-grid">
-			{% for consultor in site.consultoria %}
+			{% for consultoria in site.consultor %}
 				<li>
 					<a href="{{ site.baseurl }}{{ consultoria.url }}">
 						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}">
