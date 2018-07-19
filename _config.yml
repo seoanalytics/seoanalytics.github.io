@@ -46,6 +46,7 @@ plugins:
   - "jekyll-paginate"
   - "jekyll-archives"
   - "jekyll-redirect-from"
+  - "jekyll-compress-images"
 
 exclude:
   - Gemfile
