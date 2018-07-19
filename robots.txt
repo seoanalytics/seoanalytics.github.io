@@ -1,7 +1,5 @@
 # Se você trabalha com SEO e gostaria de participar do nosso time colaborativo de consultores, entre em contato!
-#
-# Acompanha nossos novos posts de Marketing Digital!
-#
+# Acompanhe nossas dicas sobre Consultoria de Marketing Digital no Blog!
 User-agent: *
 Allow: /consultoria/
 Allow: /blog/
