@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /consultoria/
 Allow: /blog/
-Disable: /about/
+Disallow: /about/
