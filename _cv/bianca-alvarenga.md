@@ -1,8 +1,8 @@
 ---
-name: Você Aqui
-subtitle: Consultoria de Marketing Digital
+name: Bianca Alvarenga
+subtitle: SEO Content Marketing
 external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
-image_path: /images/avatar2.png
+image_path: /images/bianca-alvarenga.jpeg
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).Increase the web presence of a App with this configurable theme.
