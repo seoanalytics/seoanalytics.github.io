@@ -34,6 +34,21 @@ redirect_from: "/cv/*"
 			<p class="editable">
 				Conhe&ccedil;a nosso time colaborativo de Especialistas de Intelig&ecirc;ncia de Marketing Digital
 			</p>
+				<ul class="image-grid">
+			{% for consultoria in site.consultoria %}
+				<li>
+					<a href="{{ site.baseurl }}/consultoria/">
+						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" />
+						<div class="details">
+							<div class="name">{{ consultoria.name }}</div>
+							<div class="position">{{ consultoria.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
 		
 		</div>
 	</div>
