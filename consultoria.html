@@ -5,12 +5,13 @@ subtitle: Somos consultoras especializadas em SEO, Social Media, Performance, M�
 redirect_from: "/consultores/"
 redirect_from: "/cv/*"
 ---
+
 <section class="diagonal alternate">
 	<div class="container halves">
 		<div>
 		   	<h2 class="editable">
-				Consultoria Digital Especializada
-			</h2>
+		   		Intelig&ecirc;ncia de Marketing Digital
+		   	</h2>
 			<p class="editable">
 				 Sabemos que hoje em dia é muito fácil ser seduzido por lindos relatórios e entregáveis de agências, mas nós trabalhamos orientadas a dados e resultados, por isso focamos nas métricas que realmente importam para o seu negócio. Não queremos entregar relatórios repleto de gráficos bonitos, nós queremos trazer resultados reais e sustentáveis aos nossos clientes, por esse motivo trabalhamos de forma colaborativa com profissionais experientes no mercado para uma Consultoria de Inteligência Digital conforme a necessidade do seu negócio. Totalmente flexível e escalável!
 			</p>
@@ -35,7 +36,7 @@ redirect_from: "/cv/*"
 			{% for consultoria in site.consultoria %}
 				<li>
 					<a href="{{ site.baseurl }}{{ consultoria.external_url }}">
-						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}">
+						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" />
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
 							<div class="position">{{ consultoria.subtitle }}</div>
@@ -45,8 +46,8 @@ redirect_from: "/cv/*"
 			{% endfor %}
 			<li class="filler"></li>
 			<li class="filler"></li>
-		    </p>
-		</ul>
+		    </ul></p>
+		
 		</div>
 	</div>
 </section>
