@@ -1,6 +1,6 @@
 ---
 name: Fabiola Faria
-subtitle: SEO | Data Analyst
+subtitle: SEO | Data Analytics
 external_url: 'https://www.linkedin.com/in/fabiolafaria/'
 image_path: /images/fabiola-foto.jpg
 ---
