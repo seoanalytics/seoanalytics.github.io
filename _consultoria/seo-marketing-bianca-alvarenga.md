@@ -1,7 +1,7 @@
 ---
 name: Bianca Alvarenga
 subtitle: SEO Content Marketing
-external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
+external_url: 'https://www.linkedin.com/in/bianca-alvarenga-13803084/'
 image_path: /images/bianca-alvarenga.jpeg
 ---
 
