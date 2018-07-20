@@ -50,6 +50,7 @@ plugins:
   - "jekyll-archives"
   - "jekyll-redirect-from"
   - "jekyll-compress-images"
+  - "jekyll-sitemap"
 
 exclude:
   - Gemfile
