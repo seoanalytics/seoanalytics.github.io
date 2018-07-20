@@ -49,8 +49,9 @@ plugins:
   - "jekyll-paginate"
   - "jekyll-archives"
   - "jekyll-redirect-from"
-  - "jekyll-compress-images"
   - "jekyll-sitemap"
+  - "jekyll-compress-images"
+  
 
 exclude:
   - Gemfile
