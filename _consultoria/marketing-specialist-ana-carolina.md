@@ -3,6 +3,7 @@ name: Ana Carolina Belarmino
 subtitle: SEM Specialist
 external_url: 'https://www.linkedin.com/in/anacarolinabelarmino/'
 image_path: /images/ana-carolina-belarmino.jpeg
+redirect_from "/consultoria/ana-carolina-marketing-specialist/"
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).Increase the web presence of a App with this configurable theme.
