@@ -2,7 +2,7 @@
 name: Fabiola Faria
 subtitle: SEO | Data Analytics
 external_url: 'https://www.linkedin.com/in/fabiolafaria/'
-image_path: /images/fabiola-foto.jpg
+image_path: /images/fabiola-faria-low-carb.jpeg
 ---
 
 A qualified and highly experienced technical in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
