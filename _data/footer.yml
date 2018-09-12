@@ -11,18 +11,18 @@
 - title: SOCIAL
   links:
     - name: Facebook
-      link:
+      link: https://www.facebook.com/seoanalytics/
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link:
+      link: https://twitter.com/seoanalyticsbr
       social_icon: Twitter
       new_window: true
-    - name: Google+
-      link:
-      social_icon: Google Plus
+    - name: Pinterest
+      link: https://www.pinterest.ie/seoanalytics/
+      social_icon: Pinterest
       new_window: true
     - name: LinkedIn
-      link:
+      link: https://www.linkedin.com/company/seo-analytics/
       social_icon: LinkedIn
       new_window: true
