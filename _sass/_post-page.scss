@@ -59,8 +59,8 @@
   }
 }
 
-.post-footer {
-  .post-footer-list {
+.post-final {
+  .post-final-list {
     list-style: none;
     margin: 0 0 40px;
     padding: 0;
@@ -147,8 +147,8 @@
 }
 
 @media screen and (max-width: 576px) {
-  .post-footer {
-    .post-footer-list {
+  .post-final {
+    .post-finalfo-list {
       li {
         display: block;
         margin-bottom: 10px;
