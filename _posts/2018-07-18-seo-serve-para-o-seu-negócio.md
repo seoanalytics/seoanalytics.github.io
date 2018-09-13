@@ -4,6 +4,7 @@ categories:
   - SEO
 author_staff_member: james
 show_comments: true
+thumbnail: "/uploads/ipad-605440-1920.jpg"
 ---
 
 Voc&ecirc; sabia que milh&otilde;es de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens a&eacute;reas a sal&otilde;es de beleza mais pr&oacute;ximos de suas casas.&nbsp;
