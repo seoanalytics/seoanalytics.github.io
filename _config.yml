@@ -49,9 +49,10 @@ plugins:
   - "jekyll-paginate"
   - "jekyll-archives"
   - "jekyll-redirect-from"
+  - "jekyll-minimagick"
   - "jekyll-compress-images"
   - "jekyll-sitemap"
-  - "jekyll-minimagick"
+  
 
 mini_magick:
     thumbnail: # Preset name
