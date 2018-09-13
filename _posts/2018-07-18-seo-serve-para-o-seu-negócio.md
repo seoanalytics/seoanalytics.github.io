@@ -4,7 +4,7 @@ categories:
   - SEO
 author_staff_member: james
 show_comments: true
-thumbnail: /uploads/ipad-605440-1920@2x.jpg
+thumbnail: /images/ipad-605440-1920@2x.jpg
 ---
 
 Você sabia que milhões de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens aéreas a salões de beleza mais próximos de suas casas. 
