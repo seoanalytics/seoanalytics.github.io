@@ -1,4 +1,4 @@
-.footer-nav {
+.final-nav {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,15 +23,15 @@
   }
 }
 
-.site-footer {
+.site-final {
   position: relative;
   background-color: $black;
-  .footer-wrapper {
+  .final-wrapper {
     position: relative;
     z-index: 1;
     padding: 100px 15px;
   }
-  .footer-heading {
+  .final-heading {
     margin: 0 0 30px;
     font-size: 37px;
     font-family: 'Dancing Script', cursive;
@@ -42,7 +42,7 @@
   }
 }
 
-.social-footer {
+.social-final {
   margin: 0 0 30px;
   padding: 0;
   text-align: center;
@@ -86,15 +86,15 @@
 }
 
 @media screen and (max-width: 576px) {
-  .site-footer {
-    .footer-wrapper {
+  .site-final {
+    .final-wrapper {
       padding: 80px 15px;
     }
-    .footer-heading {
+    .final-heading {
       font-size: 30px;
     }
   }
-  .before-footer {
+  .before-final {
     a {
       font-size: 10px;
       margin-right: 10px;
