@@ -51,6 +51,7 @@ plugins:
   - "jekyll-redirect-from"
   - "jekyll-compress-images"
   - "jekyll-sitemap"
+  - "jekyll-minimagick"
 
 exclude:
   - Gemfile
