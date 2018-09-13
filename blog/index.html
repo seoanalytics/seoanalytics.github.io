@@ -22,7 +22,7 @@ subtitle: Veja dicas de consultoria, SEO, Data Analytics e muito mais!
        {% assign author = site.authors[post.author] %}
         <article class="posts">
           {% if post.img %}
-            <a class="post-thumbnail hidden" style="background-image: url({{"/images/blog/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}">
+            <a class="post-thumbnail" style="background-image: url({{"/images/blog/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}">
               {% if author %}
               <div class="author-box">
                 <div class="author-image-cover">
