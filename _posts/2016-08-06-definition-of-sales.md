@@ -1,10 +1,9 @@
 ---
-title: Definition of sales
-categories:
-  - sales
-author_staff_member: anna
-show_comments: true
-thumbnail: /images/blog/600.jpg
+layout: post
+title: About the benefits of water
+date: 2017-10-09 17:33:28 +0300
+img: 19.jpg
+tags: Rest
 ---
 
 A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.
