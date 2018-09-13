@@ -1,10 +1,9 @@
 ---
-title: SEO serve para o seu negócio?
-categories:
-  - SEO
-author_staff_member: james
-show_comments: true
-thumbnail: /images/blog/ipad-605440-1920.jpg
+layout: post
+title: About the benefits of water
+date: 2017-10-09 17:33:28 +0300
+img: 19.jpg
+tags: Rest
 ---
 
 Voc&ecirc; sabia que milh&otilde;es de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens a&eacute;reas a sal&otilde;es de beleza mais pr&oacute;ximos de suas casas.&nbsp;
