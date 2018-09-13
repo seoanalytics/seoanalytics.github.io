@@ -53,6 +53,16 @@ plugins:
   - "jekyll-sitemap"
   - "jekyll-minimagick"
 
+mini_magick:
+	thumbnail:
+		source: images
+		destination: images/thumbnail
+		resize: "100x100"
+	medium:
+		source: images
+		destination: images/medium
+		resize: "600x400"
+		
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -111,13 +121,3 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
-  
-mini_magick:
-	thumbnail:
-		source: images
-		destination: images/thumbnail
-		resize: "100x100"
-	medium:
-		source: images
-		destination: images/medium
-		resize: "600x400"
