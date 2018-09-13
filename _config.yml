@@ -56,7 +56,7 @@ plugins:
 
 mini_magick:
     thumbnail: # Preset name
-        source: images/ # source directory - change this to whatever you want
+        source: images/blog # source directory - change this to whatever you want
         destination: images/thumbnail # generated destination directory
         resize: "100x50^" # standard imagemagick options - you can chain multiple commands
         gravity: "center"
