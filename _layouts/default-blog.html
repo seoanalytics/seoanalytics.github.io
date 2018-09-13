@@ -25,13 +25,15 @@
 	</head>
 	<body>
 		<header>
-			<div class="site-header clearfix">
+			<div class="full-page-container">
+                <div class="overlay"></div>
 				<p class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/seo-analytics-logo.png" alt="SEO Analytics" width="150"></a></p>
 				{% include navigation.html %}
+				{% include search.html %}
 			</div>
 		</header>
 		{{ content }}
-
+        {% include scroll-top.html %}
 		<footer class="diagonal">
 			<div class="container">
 				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
