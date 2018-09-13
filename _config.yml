@@ -55,11 +55,11 @@ plugins:
 
 # _config.yml
 mini_magick:
-	thumbnail:
+	- thumbnail:
 		source: images
 		destination: images/thumbnail
 		resize: "100x100"
-	medium:
+	- medium:
 		source: images
 		destination: images/medium
 		resize: "600x400"
