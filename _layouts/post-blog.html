@@ -13,12 +13,17 @@ layout: default
   </div>
 </div>
 
-<div class="content-box">
-  <article class="post">
-
-    <div class="post-content">
-      {{ content }}
-    </div>
+<section class="diagonal">
+	<div class="blog-post text-container">
+		{% include post-title.html post=page %}
+		<div class="post-content">
+			{{ content }}
+		</div>
+		{% if page.author_staff_member %}
+		    {% include author-box.html %}
+		{% endif %}
+		{% if site.disqus_shortname and page.show_comments %}
+	<section class="diagonal">
 
     <footer class="post-footer">
       <ul class="post-footer-list">
