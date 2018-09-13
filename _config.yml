@@ -54,14 +54,12 @@ plugins:
   - "jekyll-minimagick"
 
 mini_magick:
-    thumbnail:
-    	source: images
-    	destination: images/thumbnail
-    	resize: "100x100"
-    medium:
-    	source: images
-    	destination: images/medium
-    	resize: "600x400"
+    thumbnail: # Preset name
+        source: images/originals # source directory - change this to whatever you want
+        destination: images/thumbnail # generated destination directory
+        resize: "100x70^" # standard imagemagick options - you can chain multiple commands
+        gravity: "center"
+        extent: "100x70"
 
 exclude:
   - Gemfile
