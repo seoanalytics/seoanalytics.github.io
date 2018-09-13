@@ -55,8 +55,8 @@ plugins:
 
 mini_magick:
     thumbnail:
-    	source: images/
-    	destination: images/thumbnail/
+    	source: images
+    	destination: images/thumbnail
     	resize: "100x100"
     medium:
     	source: images
