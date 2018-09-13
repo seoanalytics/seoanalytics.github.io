@@ -41,7 +41,7 @@ jekyll-archives:
     - "categories"
     
 compress_images:
-  images_path: "images/*.{gif,png,jpg,jpeg,svg}"
+  images_path: "images/*/*.{gif,png,jpg,jpeg,svg}"
 
 plugins:
   - "jekyll-feed"
