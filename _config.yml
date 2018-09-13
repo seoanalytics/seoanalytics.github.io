@@ -8,14 +8,15 @@ disqus_shortname: seoanalytics-2
 # Default description in social shares for the jekyll-seo-tag gem
 description: Encontre os melhores consultores de SEO, Data Analytics e Marketing de Performance. Nós te ajudamos a encontrar um consultor data-driven para trazer os melhores resultados de conversão com o melhor custo benefício para seu negócio.
 
-# Author details for the jekyll-seo-tag gem
-# Author settings
-author: Fabiola Faria # add your name
-author-pic: fabiola-faria-low-carb.jpeg
+# Author - Creator
+author-name: Fabiola Faria
+author-image: fabiola-faria-low-carb.jpeg
 about-author: Mais de 8 anos de experiência com SEO e Data Analytics. Em sua experiência já obteve crescimento de +500% no tráfego mensal orgânico, e contribuindo com estratégias que colocaram o site em 1ª posição nos principais termos de busca.
-name:
-email: fabiola@seoanalytics.com.br
-twitter: "@fabiola_faria"
+author-email: fabiola@seoanalytics.com.br
+author-twitter: https://twitter.com/
+author-facebook: https://twitter.com/
+author-instagram: https://www.instagram.com/
+author-pinterest: https://pinterest.com/
 
 # Social details for the jekyll-seo-tag gem
 social:
