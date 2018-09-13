@@ -53,6 +53,7 @@ plugins:
   - "jekyll-sitemap"
   - "jekyll-minimagick"
 
+# _config.yml
 mini_magick:
 	thumbnail:
 		source: images
