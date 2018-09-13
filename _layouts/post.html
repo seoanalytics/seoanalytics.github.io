@@ -10,27 +10,7 @@ layout: page
 		{% if page.author_staff_member %}
 		    {% include author-box.html %}
 		{% endif %}
-	
-	</div>
-</section>
-
-
-
-	<!-- <section class="diagonal patterned"> 
-		<div class="container">
-				<!--	<ul class="image-grid">
-				{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
-				{% assign author = site.staff_members | where: "url", author_id | first %} 
-
-				<li>{% include staff-member.html member=author %}</li> </ul>
-				{% include author-box.html %}
-			
-		</div>
--->
-
-<section class="diagonal alternate">
-	<div class="text-container">
-	{% if site.disqus_shortname and page.show_comments %}
+		{% if site.disqus_shortname and page.show_comments %}
 	<section class="diagonal">
 		<div class="container">
 			<h2>Comments</h2>
@@ -56,6 +36,25 @@ layout: page
 		</div>
 	</section>
 	{% endif %}
+	</div>
+</section>
+
+
+
+	<!-- <section class="diagonal patterned"> 
+		<div class="container">
+				<!--	<ul class="image-grid">
+				{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
+				{% assign author = site.staff_members | where: "url", author_id | first %} 
+
+				<li>{% include staff-member.html member=author %}</li> </ul>
+				{% include author-box.html %}
+			
+		</div>
+-->
+
+<section class="diagonal alternate">
+	<div class="text-container">
 		<h2>Next post</h2>
 		<div class="blog-post">
 			{% if page.next %}
