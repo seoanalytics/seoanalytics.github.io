@@ -1,10 +1,12 @@
 ---
 title: SEO serve para o seu negócio?
 categories:
-  - Consultoria
+  - SEO
 author_staff_member: james
 show_comments: true
 ---
+
+![](/uploads/ipad-605440-1920.jpg){: srcset="/uploads/ipad-605440-1920@2x.jpg 1920w"}
 
 Voc&ecirc; sabia que milh&otilde;es de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens a&eacute;reas a sal&otilde;es de beleza mais pr&oacute;ximos de suas casas.&nbsp;
 
