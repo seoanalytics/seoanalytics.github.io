@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About the benefits of water
+title: SEO serve para o seu negócio?
 date: 2017-10-09 17:33:28 +0300
-img: 19.jpg
+img: ipad-605440-1920.jpg
 tags: Rest
 ---
 
