@@ -1,6 +1,8 @@
 <h3><a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a></h3>
 {% include post-title.html post=post %}
+<div class="post-content">
 <a href="{{ site.baseurl }}{{ include.post.url }}" ><img src="http://images.weserv.nl/?url=www.seoanalytics.com.br{{ post.thumbnail }}&w=300&h=300&output=jpg&q=80" />
+</div>
 <div class="post-content">
 	{{ include.post.excerpt }}
 	<p><a href="{{ site.baseurl }}{{ include.post.url }}">Leia Mais &rarr;</a></p>
