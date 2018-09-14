@@ -44,7 +44,7 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 		    		<ul class="image-grid">
 			{% for consultoria in site.consultoria %}
 				<li>
-					<a href="{{ site.baseurl }}/consultoria/">
+					<a href="{{ site.baseurl }}{{consultoria.external_url}}">
 						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" />
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
