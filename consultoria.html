@@ -38,7 +38,7 @@ redirect_from: "/cv/*"
 				<ul class="image-grid">
 			{% for consultoria in site.consultoria %}
 				<li>
-					<a href="{{ site.baseurl }}/consultoria/">
+					<a href="{{ site.baseurl }}{{consultoria.external_url}}">
 						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" />
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
