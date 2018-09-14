@@ -1,7 +1,7 @@
 ---
 name: Fabiola Faria
 subtitle: SEO | Data Analytics
-external_url: 'https://www.linkedin.com/in/fabiolafaria/'
+external_url: https://www.linkedin.com/in/fabiolafaria/
 image_path: /images/fabiola-faria-low-carb.jpeg
 ---
 
