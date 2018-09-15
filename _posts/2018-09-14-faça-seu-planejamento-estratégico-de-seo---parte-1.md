@@ -52,7 +52,7 @@ Claro que n&atilde;o &eacute; t&atilde;o simples assim, e toda essas etapas e mu
 
 Mas n&atilde;o &eacute; s&oacute; isso, agora que voc&ecirc; decidiu publicar novos conte&uacute;dos todos os dias voc&ecirc; tamb&eacute;m precisa acompanhar todas essas mudan&ccedil;as e o desempenho desses novos conte&uacute;dos atrav&eacute;s de ferramentas de an&aacute;lise de sites, como por exemplo o *Google Analytics e Search Console*\*, para saber se voc&ecirc; est&aacute; no caminho certo, e principalmente se a otimiza&ccedil;&atilde;o de conte&uacute;do est&aacute; realmente trazendo o resultado esperado, ou se est&aacute; bem direcionado para o objetivo do seu neg&oacute;cio.
 
-![google analytics para analise de trafego](/https:/seoanalytics.com.br/uploads/digital-marketing-1725340-1920.jpg "google analytics como ferramenta de analise"){: srcset="/https:/seoanalytics.com.br/uploads/digital-marketing-1725340-1920@2x.jpg 1920w"}
+![](/images/uploads/digital-marketing-1725340-1920.jpg){: srcset="/images/uploads/digital-marketing-1725340-1920.jpg 960w, /images/uploads/digital-marketing-1725340-1920@2x.jpg 1920w"}
 
 O legal at&eacute; aqui &eacute; que voc&ecirc; deve ter entendido que o Planejamento Estrat&eacute;gico de SEO &eacute; uma etapa indispens&aacute;vel para o seu neg&oacute;cio porque ele pode te ajudar a descobrir o que realmente vai funcionar no seu site e o que n&atilde;o vai. E depois de acompanhar o desempenho das a&ccedil;&otilde;es de SEO &eacute; important&iacute;ssimo avaliar novas oportunidades de melhorias para obter resultados ainda melhores.
 
