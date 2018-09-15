@@ -1,6 +1,6 @@
 ---
 name: Marina Hortelan
-subtitle: SEO Content Marketing
+subtitle: Social Media Marketing
 external_url: 'https://www.linkedin.com/in/marina-hortelan-5073b772/'
 image_path: /images/marina-hortelan.jpeg
 ---
