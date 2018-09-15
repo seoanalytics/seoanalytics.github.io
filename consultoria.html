@@ -39,7 +39,8 @@ redirect_from: "/cv/*"
 			{% for consultoria in site.consultoria %}
 				<li>
 					<a href="{{ site.baseurl }}{{consultoria.external_url}}">
-						<img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" />
+					    <img src="//images.weserv.nl?url={{ site.baseurl | replace:'http://','' }}{{ consultoria.image_path }}&w=300&h=300&q=85">
+						<!-- <img src="{% include relative-src.html src=consultoria.image_path %}" alt="{{ person.name }}" /> -->
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
 							<div class="position">{{ consultoria.subtitle }}</div>
