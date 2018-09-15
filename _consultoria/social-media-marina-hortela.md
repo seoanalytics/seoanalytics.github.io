@@ -1,7 +1,7 @@
 ---
-name: Bianca Alvarenga
+name: Marina Hortelan
 subtitle: SEO Content Marketing
-external_url: 'https://www.linkedin.com/in/bianca-alvarenga-13803084/'
+external_url: 'https://www.linkedin.com/in/marina-hortelan-5073b772/'
 image_path: /images/bianca-alvarenga.jpeg
 ---
 
