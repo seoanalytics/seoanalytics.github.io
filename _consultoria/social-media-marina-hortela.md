@@ -2,7 +2,7 @@
 name: Marina Hortelan
 subtitle: SEO Content Marketing
 external_url: 'https://www.linkedin.com/in/marina-hortelan-5073b772/'
-image_path: /images/bianca-alvarenga.jpeg
+image_path: /images/marina-hortelan.jpeg
 ---
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).Increase the web presence of a App with this configurable theme.
