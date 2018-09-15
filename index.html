@@ -18,13 +18,13 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 	<div class="container halves">
 		<div>
 		    <h2 class="editable">
-		    	Especialistas de Marketing Digital:
+		    	<br />Especialistas de Marketing Digital:
 		    </h2>
 		    		<ul class="image-grid">
 			{% for consultoria in site.consultoria %}
 				<li>
 					<a href="{{consultoria.external_url}}">
-						<img src="//images.weserv.nl?url=seoanalytics.com.br{{ consultoria.image_path }}&w=300&h=300&q=85">
+						<img src="//images.weserv.nl?url=seoanalytics.com.br{{ consultoria.image_path }}&w=300&h=300&q=85" />
 						<div class="details">
 							<div class="name">{{ consultoria.name }}</div>
 							<div class="position">{{ consultoria.subtitle }}</div>
@@ -35,7 +35,7 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 			<li class="filler"></li>
 			<li class="filler"></li>
 		</ul>
-			</ul>
+			
 		</div> 
 	</div>
 </section>
@@ -56,7 +56,7 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 		</div>
 		<div>
 			<ul class="image-grid">
-					<li><a href="{{ site.baseurl }}/consultores/">	<img src="//images.weserv.nl?url={{ site.baseurl | replace:'https://','' }}/images/digitalmarketing.png&w=300&h=300&q=85"></a></li>
+					<li><a href="{{ site.baseurl }}/consultores/">	<img src="//images.weserv.nl?url={{ site.baseurl | replace:'https://','' }}/images/digitalmarketing.png&w=300&h=300&q=85" /></a></li>
 			</ul>
 		</div>
 	</div>
