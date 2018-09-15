@@ -14,6 +14,32 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 	</div>
 </section>
 
+<section class="diagonal alternate">
+	<div class="container halves">
+		<div>
+		    <h2 class="editable">
+		    	Especialistas:
+		    		<ul class="image-grid">
+			{% for consultoria in site.consultoria %}
+				<li>
+					<a href="{{consultoria.external_url}}">
+						<img src="//images.weserv.nl?url=seoanalytics.com.br{{ consultoria.image_path }}&w=300&h=300&q=85">
+						<div class="details">
+							<div class="name">{{ consultoria.name }}</div>
+							<div class="position">{{ consultoria.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+		    </h2>
+			</ul>
+		</div> 
+	</div>
+</section>
+
 <section class="diagonal patterned">
 	<div class="container halves">
 		<div>
@@ -36,40 +62,4 @@ title: Consultoria de Inteligência Digital - SEO e Data Analytics
 	</div>
 </section>
 
-<section class="diagonal alternate">
-	<div class="container halves">
-		<div>
-		    <h2 class="editable">
-		    	Especialistas:
-		    		<ul class="image-grid">
-			{% for consultoria in site.consultoria %}
-				<li>
-					<a href="{{consultoria.external_url}}">
-						<img src="//images.weserv.nl?url=seoanalytics.com.br{{ consultoria.image_path }}&w=300&h=300&q=85">
-						<div class="details">
-							<div class="name">{{ consultoria.name }}</div>
-							<div class="position">{{ consultoria.subtitle }}</div>
-						</div>
-					</a>
-				</li>
-			{% endfor %}
-			<li class="filler"></li>
-			<li class="filler"></li>
-		</ul>
-		    </h2>
-			<!-- <ul class="image-list">
-				<li><img src="https://biznology.com/wp-content/uploads/2017/08/semrush-logo.png" width="250" style="margin-bottom: 40px;" /></li>
-				<li><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-card.png" width="250" style="margin-bottom: 40px;" /></li>
-				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300" /> 
-			
-		</div>
-	        <div>
-			<ul class="image-list">
-			<li><img src="https://reportz.io/images/logo/google_webmasters.png" width="250" style="margin-bottom: 40px;" /></li>
-			<li><img src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" width="250" style="margin-bottom: 40px;" /></li>
-	
-			<!--<p class="editable">As a new agency we get reap the benefits of the latest and greatest. We build our websites with the most up to date technology. This ensures your website is fast, efficient and reliable for many years.</p> -->
-			</ul>
-		</div> 
-	</div>
-</section>
+
