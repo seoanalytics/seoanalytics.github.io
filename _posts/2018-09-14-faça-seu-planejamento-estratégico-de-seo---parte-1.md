@@ -58,6 +58,6 @@ O legal at&eacute; aqui &eacute; que voc&ecirc; deve ter entendido que o Planeja
 
 Mas n&atilde;o se esque&ccedil;a de impor prazos para todas as atividades dentro do seu Planejamento Estrat&eacute;gio de SEO. E n&atilde;o se assuste se ao longo dos meses esse planejamento mudar. Isso porque &eacute; importante lembrar que o Google, assim como outros buscadores, tamb&eacute;m podem mudar seus algoritmos durante essa jornada. Por isso voc&ecirc; n&atilde;o precisa ficar preso ao Planejamento de SEO com medo de mudar no meio do caminho.
 
-Espero que voc&ecirc; tenha gostado do nosso primeiro bate-papo sobre Planejamento Estrat&eacute;gico de SEO! Se voc&ecirc; quiser ir mais al&eacute;m desse conte&uacute;do, deixe seu coment&aacute;rio sugerindo novos textos :)
+Espero que voc&ecirc; tenha gostado do nosso primeiro bate-papo sobre [Planejamento Estrat&eacute;gico de SEO](https://seoanalytics.com.br/blog/)! Se voc&ecirc; quiser ir mais al&eacute;m desse conte&uacute;do, deixe seu coment&aacute;rio sugerindo novos textos :)
 
 > *\* O Google Analytics e Search Console s&atilde;o ferramentas que podemos falar muito mais em um outro post. No momento &eacute; legal voc&ecirc; saber que elas existem e podem te ajudar a monitorar e analisar os acessos do seu site.*
