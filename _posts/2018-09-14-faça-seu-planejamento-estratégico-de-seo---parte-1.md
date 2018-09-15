@@ -1,5 +1,4 @@
 ---
-layout: post-blog
 title: Faça seu Planejamento Estratégico de SEO - Parte 1
 categories:
   - SEO
