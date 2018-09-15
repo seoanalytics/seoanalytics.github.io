@@ -23,6 +23,8 @@ Vamos nessa?
 
 Vamos exemplificar dizendo que voc&ecirc; quer atrair novos clientes para seu novo site de vendas de bonecas artesanais. Voc&ecirc; quer que seus clientes encontrem o seu site atrav&eacute;s do Google, mas n&atilde;o sabe muito bem ao certo por onde come&ccedil;ar para ganhar visibilidade org&acirc;nica. O que fazer?
 
+[![minnichic by cris](/https:/seoanalytics.com.br/uploads/minichicbycris.png)](https://www.instagram.com/minnichicbycris/){: target="_blank"}
+
 O primeiro passo &eacute; entender como o seu p&uacute;blico-alvo est&aacute; procurando por esse tipo de produto, ou seja, queremos saber qual o tipo de interesse de busca desses potenciais clientes:
 
 * Eles est&atilde;o procurando por cursos online de como fazer bonecas em casa? Ou seja, uma busca mais informacional por conte&uacute;dos DIY (do it yourself).
