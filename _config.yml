@@ -1,6 +1,6 @@
 title: SEO Analytics
 url: "https://seoanalytics.com.br"
-baseurl:
+baseurl: "https://seoanalytics.com.br"
 google_analytics_key: UA-103037512-1
 google_maps_javascript_api_key:
 disqus_shortname: seoanalytics-2
