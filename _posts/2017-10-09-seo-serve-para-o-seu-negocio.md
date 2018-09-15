@@ -3,7 +3,8 @@ layout: post-blog
 title: SEO serve para o seu negócio?
 date: 2017-10-09 17:33:28 +0300
 img: ipad-605440-1920.jpg
-tags: Rest
+tags: SEO
+redirect_from: "https://seoanalytics.com.br/2017/10/09/seo-serve-para-o-seu-neg%C3%B3cio/"
 ---
 
 Voc&ecirc; sabia que milh&otilde;es de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens a&eacute;reas a sal&otilde;es de beleza mais pr&oacute;ximos de suas casas.&nbsp;
