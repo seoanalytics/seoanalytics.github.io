@@ -9,6 +9,7 @@ img: planejamento-estrategico-seo.jpg
 tags:
   - SEO
 redirect_from:
+image_path:
 ---
 
 Oi Pessoal!
