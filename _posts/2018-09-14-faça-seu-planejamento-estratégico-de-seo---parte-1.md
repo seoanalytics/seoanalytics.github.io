@@ -24,7 +24,7 @@ Vamos nessa?
 
 Vamos exemplificar dizendo que voc&ecirc; quer atrair novos clientes para seu novo site de vendas de bonecas artesanais. Voc&ecirc; quer que seus clientes encontrem o seu site atrav&eacute;s do Google, mas n&atilde;o sabe muito bem ao certo por onde come&ccedil;ar para ganhar visibilidade org&acirc;nica. O que fazer?
 
-![](https:/seoanalytics.com.br/images/uploads/minichicbycris.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/minichicbycris.png)
+![](https:/seoanalytics.com.br/images/uploads/minichicbycris.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/images/uploads/minichicbycris.png)](https://www.instagram.com/minnichicbycris/)
 
 O primeiro passo &eacute; entender como o seu p&uacute;blico-alvo est&aacute; procurando por esse tipo de produto, ou seja, queremos saber qual o tipo de interesse de busca desses potenciais clientes:
 
@@ -36,7 +36,7 @@ Depois que voc&ecirc; entender melhor o que seus clientes est&atilde;o buscando,
 
 Depois de conhecer as melhores palavras-chave para o interesse do seu cliente, voc&ecirc; deve considerar tamb&eacute;m alguns conte&uacute;dos relacionados ao seu neg&oacute;cio, como por exemplo: materiais reutiliz&aacute;veis para artesanato, melhores produtos para cria&ccedil;&atilde;o de bonecas, melhores ferramentas para fabrica&ccedil;&atilde;o das suas pe&ccedil;as artesanais, e um mont&atilde;o de assuntos relacionados que voc&ecirc; poderia abordar.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)
 
 Voc&ecirc; consegue ver a imensid&atilde;o de oportunidades que voc&ecirc; pode encontrar para a cria&ccedil;&atilde;o de conte&uacute;dos para o seu neg&oacute;cio durante o Estudo de Palavras-chave?
 
