@@ -4,7 +4,7 @@ categories:
   - SEO
 author_staff_member: james
 show_comments: true
-date: 2018-09-15 00:00:00
+date: 2018-09-14 00:00:00
 img: planejamento-estrategico-seo.jpg
 tags:
   - SEO
