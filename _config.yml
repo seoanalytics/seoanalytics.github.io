@@ -57,6 +57,7 @@ plugins:
   - "jekyll-minimagick"
   - "jekyll-compress-images"
   - "jekyll-sitemap"
+  - "jekyll-google-tag-manager"
   
 
 mini_magick:
