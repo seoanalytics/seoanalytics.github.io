@@ -6,6 +6,7 @@ google_analytics: UA-103037512-1
 google_maps_javascript_api_key:
 disqus_shortname: seoanalytics-2
 disqus-identifier: seoanalytics-2
+
 google:
   tag_manager:
     container_id: GTM-N4WH56H
