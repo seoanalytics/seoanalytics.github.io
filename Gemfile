@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-minimagick'
   gem 'jekyll-redirect-from'
   gem 'jekyll-compress-images'
+  gem 'jekyll-google-tag-manager'
 end
