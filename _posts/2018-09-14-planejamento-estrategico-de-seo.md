@@ -14,7 +14,7 @@ image_path:
 
 Oi Pessoal!
 
-Depois do meu &uacute;ltimo post falando sobre a&nbsp;[import&acirc;ncia do SEO para o seu neg&oacute;cio](https://seoanalytics.com.br/2017/10/09/seo-para-seu-negocio/){: target="_blank"}, voc&ecirc; j&aacute; deve ter entendido um pouquinho mais sobre SEO, n&atilde;o &eacute; mesmo?
+Depois do meu &uacute;ltimo post falando sobre a&nbsp;[import&acirc;ncia do SEO para o seu neg&oacute;cio](https://seoanalytics.com.br/2018/10/09/seo-para-seu-negocio/){: target="_blank"}, voc&ecirc; j&aacute; deve ter entendido um pouquinho mais sobre SEO, n&atilde;o &eacute; mesmo?
 
 Ent&atilde;o agora j&aacute; podemos falar mais abertamente sobre a **otimiza&ccedil;&atilde;o do seu site**, e para isso precisamos falar um pouquinho sobre a cria&ccedil;&atilde;o de um Planejamento Estrat&eacute;gico de SEO. E por que precisamos falar sobre isso? Para podermos focar nos objetivos que s&atilde;o realmente importantes para seu neg&oacute;cio e atrair os potenciais clientes para seu site.
 
