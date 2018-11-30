@@ -16,3 +16,11 @@ collections:
 hero: 112.jpg
 hero-title: 
 hero-description: 
+
+# Social Media Links (Links are located in hero and footer)
+twitter: https://twitter.com/
+facebook: https://facebook.com/
+google-plus: https://plus.google.com/
+instagram: https://www.instagram.com/
+pinterest: https://pinterest.com/
+youtube: https://www.youtube.com/
