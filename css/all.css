@@ -236,6 +236,112 @@ footer{
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
 }
 
+/* 4. ========== Info Box ========== */
+
+.info-box {
+  width: 100%;
+  min-height: 60px;
+  background-color: #ffffff;
+  padding: 0 0 60px;
+}
+
+.info-social {
+  width: 50%;
+  float: left;
+}
+
+.info-social-list {
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.info-social-list li {
+  padding: 0;
+  margin: 0;
+}
+
+.info-social-list li a {
+  width: 20%;
+  float: left;
+  text-align: center;
+  line-height: 60px;
+}
+
+.info-social-list li a:hover {
+  background-color: rgba(206, 230, 255, 0.5);
+}
+
+.info-social-list li a,
+.info-social-list li span {
+  font-size: 21px;
+  color: #000000;
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.info-social-list li a:hover,
+.info-social-list li span:hover {
+  color: #0078d9;
+}
+
+.info-social-list li span {
+  cursor: pointer;
+}
+
+.info-newsletter {
+  width: 50%;
+  float: right;
+}
+
+.newsletter {
+  margin: 0 auto;
+  border: none;
+}
+
+.newsletter-form input[type="email"] {
+  color: #787878;
+}
+
+.newsletter-form .c-newsletter-form-group {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c-newsletter-email {
+  width: 70%;
+  height: 60px;
+  font-size: 14px;
+  padding: 10px 15px;
+  font-weight: 700;
+  border: 1px solid rgba(120, 120, 120, 0.19);
+  outline: none;
+}
+
+.newsletter-button {
+  display: inline-block;
+  width: 30%;
+  height: 60px;
+  font-size: 14px;
+  padding: 20px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #0078d9;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.newsletter-button:hover {
+  background-color: #004e8d;
+}
+
 /* ========== Post Body ========== */
 
 .posts {
