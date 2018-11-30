@@ -181,6 +181,46 @@ footer{
     border-bottom: 5px solid transparent;
     border-left: 5px solid #f8cdc6;
 }
+.full-page-container {
+  min-height: 100vh;
+  position: relative;
+  right: 0;
+  -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+  -o-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+  transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+}
+
+.full-page-container.open {
+  right: 250px;
+}
+
+.wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  width: 1440px;
+  max-width: 100%;
+  margin: 80px auto 80px;
+  -webkit-transition: all .35s ease;
+  -o-transition: all .35s ease;
+  transition: all .35s ease;
+}
+
+.wrapper-content {
+  position: relative;
+  width: 1440px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
 /* ========== Hero ========== */
 
