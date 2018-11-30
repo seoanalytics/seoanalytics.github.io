@@ -12,7 +12,7 @@ tags:
 redirect_from:
 ---
 
-API, CPC, CTA, KPIS?
+## API, CPC, CTA, KPIS?
 
 O Gloss&aacute;rio do Marketing digital n&atilde;o &eacute; muito convidativo para quem est&aacute; fora desse universo, mas &eacute; fato que cada um desses termos tem um significado e import&acirc;ncia no momento de definir, implementar e mensurar uma estrat&eacute;gia de sucesso!
 
