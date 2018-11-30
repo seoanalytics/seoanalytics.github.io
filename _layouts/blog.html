@@ -115,15 +115,12 @@
 <div class="f5 i">
    <a href="https://tinyletter.com/">Tinyletter</a>.
 </div>
-
-
- {% if site.disqus-identifier %}
-      {% include disqus-comments.html %}
- {% endif %}
                                     
 
 </div>
 </div>
 
-
+{% if site.disqus-identifier %}
+      {% include disqus-comments.html %}
+{% endif %}
 {% include footer.html %}
