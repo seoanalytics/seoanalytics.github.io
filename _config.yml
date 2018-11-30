@@ -10,3 +10,9 @@ collections:
     output: true
   stories:
     output: true        
+    
+    
+# Banner Section
+hero: 112.jpg
+hero-title: Welcome to Lokmont
+hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
