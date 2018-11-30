@@ -1,0 +1,182 @@
+html{
+    font-family:"raleway";
+    color: #212121;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -webkit-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+}
+
+.tcblack{color: #212121;}
+
+brand{color: #212121;}
+
+.tomgreen{color: #00ff00}
+
+brand:after{
+    display: block;
+    content: '';
+    width: 50px;
+    border-bottom: 8px solid #00ff00;
+    position: absolute;
+    left: 3px;
+    top: 22px;
+    z-index: -1;
+}
+
+.mobilemenu{
+    display:none;
+}
+
+.navigation a{
+    text-decoration: none;
+    color: #212121;
+}
+
+.tombox{
+  position:relative;
+  border:4px solid #00ff00;
+  height:500px;
+  max-width:800px
+}
+
+.tomboxinner{
+    position:absolute;
+    width:450px;
+    height:600px;
+    left:-470px;
+    top:-54px;
+    z-index:-1;
+}
+.tomboxinner img{
+  height:100%;
+}
+
+.tcsectionheader{
+    font-size:40px;
+    line-height:30px;
+    
+}
+
+.contactbox a{
+text-decoration: none;
+    border: 4px solid #00ff00;
+    padding: 20px;
+    -webkit-transition: padding 100ms;
+    -moz-transition: padding 100ms;
+    -ms-transition: padding 100ms;
+    -o-transition: padding 100ms;
+    transition: padding 100ms;
+}
+
+.contactbox a:hover {
+    padding: 30px;
+}
+
+ul a:hover, ol a:hover, p a:hover {
+    border-bottom: 4px solid #00ff00;
+}
+
+ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
+    text-decoration: none;
+    color: #212121;
+    border-bottom: 2px solid #00ff00;
+    transition: ease-in .05s border-bottom;
+}
+
+blockquote {
+    background: #f3f3f3;
+    margin: 0px;
+    padding: 20px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  
+  blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+    font-family:"georgia"
+  }
+
+  blockquote:after {
+    visibility: hidden;
+    color: #111;
+    content: close-quote;
+    font-size: 4em;
+    line-height: 0;
+    vertical-align: -0.4em;
+  }
+
+  blockquote p {
+    display: inline;
+  }
+
+.postcontainer{
+    word-wrap:break-word;
+}
+
+.postcontainer h2, .postcontainer h3{
+    padding-top: 1rem;
+}
+
+.postcontainer img{
+    max-width:150%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.postcontainer iframe{
+padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#copytext{
+        cursor: pointer;
+}
+
+.tcgrey{
+    background-color: #f3f3f3;
+}
+
+.footnotes{
+    color:grey;
+    font-size:14px;
+}
+
+footer{
+    min-height:300px;
+}
+
+.dottedgreenarrow{
+    border-top:2px dashed #00ff00;
+    margin-top:10px;
+    margin-bottom:10px;
+    position:relative;
+}
+
+.dottedgreenarrow::before{
+    position: absolute;
+    content: '';
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 5px solid #00ff00;
+}
+
+.dottedgreenarrow::after{
+    position: absolute;
+    content: '';
+    bottom: -4px;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #00ff00;
+}
