@@ -3,23 +3,89 @@ layout: page
 title: Sobre mim
 ---
 
-Hi there, 
+A qualified and highly experienced technical in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
 
-<h2 class="editable">
-		   		Intelig&ecirc;ncia de Marketing Digital
-		   	</h2>
-			<p class="editable">
-				Sabemos que hoje em dia &eacute; muito f&aacute;cil ser seduzido por lindos relat&oacute;rios e entreg&aacute;veis de ag&ecirc;ncias, mas n&oacute;s trabalhamos orientadas a dados e resultados, por isso focamos nas m&eacute;tricas que realmente importam para o seu neg&oacute;cio. N&atilde;o queremos entregar relat&oacute;rios repleto de gr&aacute;ficos bonitos, n&oacute;s queremos trazer resultados reais e sustent&aacute;veis aos nossos clientes. Por esse motivo trabalhamos de forma colaborativa com profissionais experientes no mercado para uma Consultoria de Intelig&ecirc;ncia Digital conforme a necessidade do seu neg&oacute;cio. Totalmente flex&iacute;vel e escal&aacute;vel, e com o melhor custo-benef&iacute;cio!<br />&nbsp;
-				
-			</p>
-			<h2 class="editable">
-			    Marketing Data-driven
-			</h2>
-			<p class="editable">
-				Trabalhamos com clientes em todas as etapas do ciclo de vida de sua estrat&eacute;gia, desde a configura&ccedil;&atilde;o de sua ferramenta de Web Analytics at&eacute; a Intelig&ecirc;ncia Digital avan&ccedil;ada para otimiza&ccedil;&atilde;o de convers&atilde;o. Dessa forma acreditamos que uma estrat&eacute;gia bem estruturada deve ser orientada a dados para trazer os melhores resultados. Os benef&iacute;cios da estrat&eacute;gia de marketing orientada a dados s&atilde;o significativos: garante segmenta&ccedil;&otilde;es mais relevantes, tr&aacute;fego mais qualificado, compras de m&iacute;dias mais eficientes, e aumento significativo no ROI do seu neg&oacute;cio. E esse &eacute; o resultado que queremos!<br />&nbsp;
-			</p>
-			<h2 class="editable">
-				Intelig&ecirc;ncia Digital
-			</h2>
-			<p class="editable">
-				A Intelig&ecirc;ncia Digital est&aacute; diretamente relacionada aos dados que trabalhamos, pois n&atilde;o basta apenas gerarmos n&uacute;meros, precisamos sistematiz&aacute;-los, interpret&aacute;-los e transform&aacute;-los em informa&ccedil;&otilde;es para uma estrat&eacute;gia de sucesso. Por isso, trabalhamos colaborativamente para extrairmos informa&ccedil;&otilde;es do ciclo completo de intera&ccedil;&otilde;es do usu&aacute;rio e do cen&aacute;rio competitivo para planejar sua estrat&eacute;gia de crescimento. Se voc&ecirc; precisa de uma estrat&eacute;gia de marketing de sucesso, voc&ecirc; est&aacute; no lugar certo!<br />&nbsp;
+## Tools:
+
+* Search Console (Google Webmaster Tools)&nbsp;
+* Google Analytics, Power BI, Google Data Studio&nbsp;
+* SEMRush, DeepCrawl, Botify, Hrefs, Moz, Screaming Frog, Sensor Tower
+* Page Speed, GTMetrix, Webpage Test, Lighthouse in Dev, Pingdom
+* Google Tag Manager, &nbsp;
+* Visual Website Optimizer (VWO), Optimizely, Crazy Egg,
+* [MailChimp](https://mailchimp.com/)
+
+## Experience
+
+**SEO ANALYTICS - 2016 – 2018**&nbsp;- Data Analytics Consultant / SEO Consultant
+
+**VIVA DECORA - &nbsp;2016 – 2017 -&nbsp;**Senior SEO Specialist
+
+SEO Specialists in the Engineer Team of Viva Decora was responsible to increase a website's ranking in the most important search engines and implement online marketing strategies.
+
+The main activities developed in Viva Decora are:
+
+* Define SEO strategies for Viva Decora and lead &nbsp;both the Engineering and B2C teams;
+* Define Viva Decora's ASO strategies and lead their execution with the Apps development team;
+* Define SEO strategies for videos and content, as well as follow new trends of engagement and organic visibility;
+* Define optimization metrics for search results, as well as data-driven SEO actions;
+* Reporting of visibility and traffic;
+* Dissemination of SEO culture across the Company;
+* Develop courses and Tech Talks to assist the Team;
+* Helping Viva Decora to turn into the biggest and best decoration site in Brazil;
+* Yes we are the first place in "Decora&ccedil;&atilde;o" (Decor in Brazil) on Google!
+
+**APIS3 CONSULTING - 2014 – 2016**&nbsp;- **DATA ANALYST**
+
+Data Analyst in the Data Analytics Team, which aims to conduct qualitative and quantitative data analysis, and contributing with continuous improvements in website performance.
+
+It is part of the daily routine:
+
+* Strong knowledge of Web Analytics, SEO and Performance;
+* Planning actions and KPIs;
+* Creation, implementation and updating of Google Analytics properties and views;
+* Implementation and validation of tags by Google Tag Manager;
+* Creation of monitoring panels and Dashboards;
+* Reporting to support decision making,
+* A / B tests oriented to conversion optimization;
+
+Used Tools: Google Analytics, Google Tag Manager, CrazyEgg, Optimizely, Visual Website Optimizer, PageSpeed, WebPageTest, Search Console, Supermetrics, Youtube Analytics, Wrike, among others.
+
+**APIS3 CONSULTING - 2014 – 2016**&nbsp;- **SEO ANALYST**
+
+SEO Analyst in the SEO Team, which aims to conduct qualitative and quantitative data analysis, and contributing with continuous improvements in website performance.
+
+It is part of the daily routine:
+
+* Creation of website diagnostics;
+* Monitoring and analysis of SEO metrics;
+* Creation of detailed action plans to support decision making;
+* Planning and execution of usability tests;
+* A / B test and multivariate tests;
+* Coordinate and guide the implementation of proposals in development teams;
+* Define and negotiate deadlines and scopes of projects;
+* Analyze competitors, identify and recommend opportunities for improvement;
+* Performance audits and optimization suggestions on the page
+
+Used Tools: Google Analytics, Search Console, DeepCrawl, SEMRush, Hrefs, SearchMetrics, ScreamingFrog, PageSpeed, WebPageTest, GTmetrix, Wrike, Wordpress, Youtube Analytics, etc.
+
+[SEE MORE EXPERIENCE ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
+
+## Education
+
+**2009-2013** B.Sc. Degree in Information Systems (NFQ Level 8) - UNIFEI - Federal University of Itajub&aacute; (Brazil)
+
+**2017-2018** Data Science for Business - Udacity Nanodegree Program (Online)
+
+## Training and Languages
+
+&nbsp;
+
+* 2018 Alura Course: Python 2 - Programming with Python
+* 2018 Alura Course: Python 3 - Programming with Python
+* 2017 Udacity Course: Programming Foundations with Python
+* 2016 Google Course: Website Performance Optimization
+* 2015 Google Tag Manager Fundamentals Certification
+* 2015 Google Analytics Certification
+* 2014 USP - University of S&atilde;o Paulo: Specialization in Management of IT Projects&nbsp;
+* 2004 ITA -Technological Institute of Aeronautics: Academic Extension of Physics Course &nbsp;&nbsp;
