@@ -17,6 +17,7 @@ Sabemos que hoje em dia &eacute; muito f&aacute;cil ser seduzido por lindos rela
 
 Trabalhamos com clientes em todas as etapas do ciclo de vida de sua estrat&eacute;gia, desde a configura&ccedil;&atilde;o de sua ferramenta de Web Analytics at&eacute; a Intelig&ecirc;ncia Digital avan&ccedil;ada para otimiza&ccedil;&atilde;o de convers&atilde;o. Dessa forma acreditamos que uma estrat&eacute;gia bem estruturada deve ser orientada a dados para trazer os melhores resultados. Os benef&iacute;cios da estrat&eacute;gia de marketing orientada a dados s&atilde;o significativos: garante segmenta&ccedil;&otilde;es mais relevantes, tr&aacute;fego mais qualificado, compras de m&iacute;dias mais eficientes, e aumento significativo no ROI do seu neg&oacute;cio. E esse &eacute; o resultado que queremos!
 
+
 ## Intelig&ecirc;ncia Digital
 
 A Intelig&ecirc;ncia Digital est&aacute; diretamente relacionada aos dados que trabalhamos, pois n&atilde;o basta apenas gerarmos n&uacute;meros, precisamos sistematiz&aacute;-los, interpret&aacute;-los e transform&aacute;-los em informa&ccedil;&otilde;es para uma estrat&eacute;gia de sucesso. Por isso, trabalhamos colaborativamente para extrairmos informa&ccedil;&otilde;es do ciclo completo de intera&ccedil;&otilde;es do usu&aacute;rio e do cen&aacute;rio competitivo para planejar sua estrat&eacute;gia de crescimento. Se voc&ecirc; precisa de uma estrat&eacute;gia de marketing de sucesso, voc&ecirc; est&aacute; no lugar certo!
