@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Tom Critchlow. Move. Think. Create.{% endif %}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="/images/favicon.png" />
+
+    <link rel="stylesheet" href="/css/tufte.css"/>
+
+    <meta property="og:type"   content="article" />
+    <meta property="og:url"    content="https://tomcritchlow.com{{page.url}}" />
+    <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}" />
+    <meta property="og:image"  content="http://tomcritchlow.com/images/green.png" />
+    <meta property="og:image:width"  content="600" />
+    <meta property="og:image:height"  content="315" />
+   
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:site" content="@tomcritchlow">
+   <meta name="twitter:creator" content="@tomcritchlow">
+   <meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}Tom Critchlow - Move. Think. Create.{% endif %}">
+   <meta name="twitter:description" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.content | truncatewords:20 | strip_html}}{% endif %}">
+   <meta name="twitter:image" content="http://tomcritchlow.com/images/green.png">
+    
+   <meta name="pocket-site-verification" content="d481265d27c9597cbdc003abbf1994" />    
+    
+    <style>
+    
+      navigation{
+        display:block;
+        margin-top:50px;
+        margin-bottom:50px;
+        width:87.5%;;
+      }
+      
+      .nav{
+        display:block;
+        text-align:right;
+        width:100%;
+        margin-bottom:20px;
+      }
+      
+      a{
+        color:rgb(173, 48, 2) !important;
+        text-decoration-color: rgb(173, 48, 2);
+      }
+      
+      article h1{
+        font-size:3.5em;
+      }
+      
+      article h2{
+        padding-top:2rem;
+      }
+      
+      @media (max-width: 760px) {
+        navigation{ width:100%; }
+       }
+    </style>
+
+  </head>  
+
+{% include googleanalytics.html %}
+
+<body>
+
+    <navigation>
+        <div class="nav">
+          <strong>The Strategic
+          <br>Independent</strong>
+          </div>
+          
+          <div class='nav'>
+          Writings on theory and practice
+          <br>for independent consultants
+          <br>by <a href="/">Tom Critchlow</a>
+          </div>
+        </navigation>
+
+<article>
+
+    
+    <h1>{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <p class="subtitle">{{page.subtitle}}</p>
+      {% endif %}
+
+    {% if page.date %}
+    <div class="">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+
+  <section>
+
+    {{content}}
+
+<hr>
+
+    <div id="disqus_thread"></div>
+
+  </section>
+</article>
+
+
+
+
+
+  
+<script>
+
+var disqus_config = function () {
+    this.page.url = "http://tomcritchlow.com"+"{{page.url}}"; 
+    this.page.identifier = "{{page.id}}"; 
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//tomcritchlow.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                    
+
+</div>
+</div>
+
+
+</body>
+</html>
