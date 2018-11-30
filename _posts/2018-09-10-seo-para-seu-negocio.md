@@ -1,5 +1,5 @@
 ---
-layout: post-blog
+layout: blog
 title: SEO serve para o seu negócio?
 date: 2018-09-10 14:33:00
 img: ipad-605440-1920.jpg
