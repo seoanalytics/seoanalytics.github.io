@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latest Writing
+title: Últimos posts
 ---
 
 {% for post in site.posts  %}
