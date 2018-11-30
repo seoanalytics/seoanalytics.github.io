@@ -181,20 +181,6 @@ footer{
     border-left: 5px solid #f8cdc6;
 }
 
-.full-page-container {
-  min-height: 100vh;
-  position: relative;
-  right: 0;
-  -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
-  -o-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
-  transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
-}
-
-.full-page-container.open {
-  right: 250px;
-}
-
-
 /* ========== Hero ========== */
 
 .hero {
@@ -459,3 +445,15 @@ footer{
   color: #bd081c;
 }
 
+.full-page-container {
+  min-height: 100vh;
+  position: relative;
+  right: 0;
+  -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+  -o-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+  transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+}
+
+.full-page-container.open {
+  right: 250px;
+}
