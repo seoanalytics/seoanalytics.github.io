@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: Vocabulário de Marketing Digital
 categories:
   - Marketing Digital
