@@ -12,15 +12,6 @@
 <section class="cf pv5">
 <div class="mw8-l w-90-s center tc">
         <h2> Marketing Digital</h2>
-
-
-    {% if paginator.page %}
-      {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
-      {% assign currentPage = paginator.page %}
-    {% else %}
-      {% assign offset = 0 %}
-      {% assign currentPage = 1 %}
-    {% endif %}
     
     <div class="content-wrap">
       <div class="wrapper" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
