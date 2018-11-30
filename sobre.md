@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-A qualified and highly experienced technical in search engine optimization and data ![](/uploads/fabiola-faria-adesivo-180.png)analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
+![](/uploads/fabiola-faria-adesivo-180.png) A qualified and highly experienced technical in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
 
 ## Tools:
 
