@@ -1,0 +1,12 @@
+# Permalinks
+permalink:        pretty
+
+collections:
+  projects:
+    output: true
+  links:
+    output: true
+  music:
+    output: true
+  stories:
+    output: true        

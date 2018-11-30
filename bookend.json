@@ -1,0 +1,52 @@
+---
+---
+{
+    "bookendVersion": "v1.0",
+    "shareProviders": [
+      "facebook",
+      "twitter",
+      "email"
+    ],
+    "components": [
+      {
+        "type": "heading",
+        "text": "More Stories by Tom Critchlow"
+      },
+      {% for story in site.stories %}
+      {
+        "type": "small",
+        "title": "{{story.title}}",
+        "url": "{{story.url}}",
+        {% if story.layout contains "ampstory" %}
+        {% assign image = 0 %}
+        {% for page in story.pages %}
+          {%if image == 0 %}
+            {% if page.background %}
+            "image": "{{page.background}}"
+            {% assign image = 1 %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% elsif story.layout contains "ampgallery" %}
+        {% assign image = 0 %}
+          {% for image in site.static_files %}
+            {% if image.path contains story.folder %}
+              "image": "{{image.path}}"
+              {% assign image = 1 %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+      },
+      {% endfor %}
+      {
+        "type": "cta-link",
+        "links": [
+          {
+            "text": "@tomcritchlow",
+            "url": "https://twitter.com/tomcritchlow"
+          }
+        ]
+      }
+    ]
+  }
