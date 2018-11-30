@@ -566,3 +566,98 @@ footer{
 .full-page-container.open {
   right: 250px;
 }
+
+@media screen and (max-width: 576px) {
+    
+    .navigation{
+        display:none;
+    }
+    
+    .mobilemenu{
+        display:block;
+    }
+    
+    .tombox{
+        height:initial;
+    }
+    
+    .tombox img{
+        display:none;
+    }
+    
+    .postcontainer img{
+        margin-left: 0px;
+        max-width: 100%;
+    }
+    
+    .postcontainer iframe{
+        max-width:100%;
+    }
+
+  .post-footer .post-footer-list li {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .post-footer .post-footer-list li:last-child {
+    margin-bottom: 0;
+  }
+
+  .post-header {
+    min-height: 420px;
+  }
+
+  .page-navigation .prev-page span,
+  .page-navigation .next-page span {
+    max-width: 270px;
+  }
+
+  .site-footer .footer-wrapper {
+    padding: 80px 15px;
+  }
+
+  .site-footer .footer-heading {
+    font-size: 30px;
+  }
+
+  .before-footer a {
+    font-size: 10px;
+    margin-right: 10px;
+  }
+
+  .page-header {
+    min-height: 420px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .wrapper {
+    margin: 50px auto 20px;
+  }
+
+  .post-thumbnail .author-box {
+    left: 20px;
+  }
+
+  .post-body {
+    padding: 20px 15px;
+  }
+
+  .post-body h2 {
+    font-size: 24px;
+  }
+
+  .post-body p {
+    margin-bottom: 15px;
+  }
+
+  .pagination-box {
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .newsletter-button {
+    font-size: 13px;
+  }
+}
