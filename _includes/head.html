@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}SEOAnalytics{% endif %}</title>
     <meta name="description" content="SEOAnalytics">
 
@@ -11,12 +13,15 @@
 
 <link href="/css/all.css" rel="stylesheet">
 <link href="/css/mobile.css" rel="stylesheet">
+
+ <!-- Font Awesome v4.7.0 -->
 <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | relative_url }}">
+
+<!-- Normalize v7.0.0 -->
+  <link rel="stylesheet" href="{{ "/css/normalize.css" | relative_url }}">
 
 
 <link rel="icon" href="/images/favicon.png" />
-
-<meta name="viewport" content="width=device-width">
 
 <script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
 
