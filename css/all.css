@@ -502,7 +502,7 @@ footer{
   bottom: 0;
   opacity: 0;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(0, 197, 217, 0.1)), color-stop(40%, transparent), color-stop(60%, transparent), to(rgba(0, 197, 217, 0.6)));
-  background: -webkit-linear-gradient(top, rgba(0, 197, 217, 0.1) 0, transparent 40%, transparent 60%, rgba(0, 197, 217, 0.6));
+  background: -webkit-linear-gradient(top, rgba(0, 197, 217, 0.1) 0, transparent 40%, transparent 60%, #f8cdc6);
   background: -o-linear-gradient(top, rgba(0, 197, 217, 0.1) 0, transparent 40%, transparent 60%, rgba(0, 197, 217, 0.6));
   background: linear-gradient(180deg, rgba(0, 197, 217, 0.1) 0, transparent 40%, transparent 60%, rgba(0, 197, 217, 0.6));
   -webkit-transition: all .15s ease-in-out;
