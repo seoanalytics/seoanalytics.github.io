@@ -1,8 +1,5 @@
 disqus-identifier: seoanalytics-2
 
-# Permalinks
-permalink:        pretty
-
 collections:
   projects:
     output: true
@@ -12,6 +9,12 @@ collections:
     output: true
   stories:
     output: true        
+    
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 9
+paginate_path: "/page/:num"
     
     
 # Banner Section
