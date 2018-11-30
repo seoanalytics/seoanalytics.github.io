@@ -5,7 +5,7 @@ categories:
 author_staff_member:
 show_comments: true
 date: 2018-11-30 00:00:00
-img:
+img: vocabulario-marketing-digital.jpg
 tags:
   - Marketing Digital
 redirect_from:
