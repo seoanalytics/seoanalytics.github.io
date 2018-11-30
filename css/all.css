@@ -11,13 +11,13 @@ html{
 
 brand{color: #212121;}
 
-.tomgreen{color: #00ff00}
+.tomgreen{color: #f8cdc6}
 
 brand:after{
     display: block;
     content: '';
     width: 50px;
-    border-bottom: 8px solid #00ff00;
+    border-bottom: 8px solid #f8cdc6;
     position: absolute;
     left: 3px;
     top: 22px;
@@ -35,7 +35,7 @@ brand:after{
 
 .tombox{
   position:relative;
-  border:4px solid #00ff00;
+  border:4px solid ##f8cdc6;
   height:500px;
   max-width:800px
 }
@@ -60,7 +60,7 @@ brand:after{
 
 .contactbox a{
 text-decoration: none;
-    border: 4px solid #00ff00;
+    border: 4px solid #f8cdc6;
     padding: 20px;
     -webkit-transition: padding 100ms;
     -moz-transition: padding 100ms;
@@ -74,13 +74,13 @@ text-decoration: none;
 }
 
 ul a:hover, ol a:hover, p a:hover {
-    border-bottom: 4px solid #00ff00;
+    border-bottom: 4px solid #f8cdc6;
 }
 
 ul a, ol a, p a, form a, .mobilemenu a, .next, .previous, h3 a, h4 a {
     text-decoration: none;
     color: #212121;
-    border-bottom: 2px solid #00ff00;
+    border-bottom: 2px solid #f8cdc6;
     transition: ease-in .05s border-bottom;
 }
 
@@ -151,7 +151,7 @@ footer{
 }
 
 .dottedgreenarrow{
-    border-top:2px dashed #00ff00;
+    border-top:2px dashed #f8cdc6;
     margin-top:10px;
     margin-bottom:10px;
     position:relative;
@@ -166,7 +166,7 @@ footer{
     height: 0;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #00ff00;
+    border-right: 5px solid #f8cdc6;
 }
 
 .dottedgreenarrow::after{
@@ -178,5 +178,5 @@ footer{
     height: 0;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-left: 5px solid #00ff00;
+    border-left: 5px solid #f8cdc6;
 }
