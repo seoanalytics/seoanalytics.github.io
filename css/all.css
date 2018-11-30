@@ -198,7 +198,7 @@ footer{
           align-items: center;
   position: relative;
   width: 100%;
-  min-height: 700px;
+  min-height: 500px;
   background-color: rgba(220, 235, 245, 0.2) !important;
   -webkit-background-size: cover !important;
           background-size: cover !important;
