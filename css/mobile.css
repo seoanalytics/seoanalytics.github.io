@@ -1,9 +1,5 @@
 @media (max-width: 1024px) {
 
-
-}
-@media screen and (max-width: 576px) {
-    
     .navigation{
         display:none;
     }
@@ -28,6 +24,9 @@
     .postcontainer iframe{
         max-width:100%;
     }
+
+}
+@media screen and (max-width: 576px) {
 
   .post-footer .post-footer-list li {
     display: block;
