@@ -1,5 +1,5 @@
 ---
-title: vocabulario marketing digital
+title: Vocabulário de Marketing Digital
 categories:
   - Marketing Digital
 author_staff_member:
