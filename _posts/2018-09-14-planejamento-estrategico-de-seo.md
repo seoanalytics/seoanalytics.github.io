@@ -1,8 +1,6 @@
 ---
 layout: blog
 title: Faça seu Planejamento Estratégico de SEO - Parte 1
-categories:
-  - SEO
 show_comments: true
 date: 2018-09-14 00:00:00
 img: planejamento-estrategico-seo.jpg
