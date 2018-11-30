@@ -1,8 +1,10 @@
 ---
 layout: page
 metatitle: Digital Strategy Consulting from SEOAnalytics
-title: Inteligência Digital
-subtitle: I run a boutique consulting practice helping companies define and build digital marketing capabilities.
+title: Consultoria de Marketing Digital
+subtitle: >-
+  Somos uma comunidade especializadas em SEO, Social Media, Performance, Mídia
+  Programática e Data Analytics.
 ---
 
 ## Intelig&ecirc;ncia de Marketing Digital&nbsp;
