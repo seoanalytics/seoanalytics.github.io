@@ -25,6 +25,75 @@
   <div class="w-two-thirds-ns">
   
   {{content}}
+  
+  {% assign author = site.authors[page.author] %}
+    <div class="post-author">
+      {% if author %}
+      <div class="post-author-image">
+        <a style="background-image: url({{"/images/" | prepend: site.baseurl | append: author.author-image}})">
+          <span class="screen-reader-text">{{author.author-name}} Picture</span>
+        </a>
+      </div>
+      <div class="post-author-info">
+        <h4>{{ author.author-name }}</h4>
+        <p class="post-author-bio">{{ author.about-author }}</p>
+        <div class="post-author-meta">
+          {% if author.author-twitter %}
+          <a href="{{ author.author-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if author.author-facebook %}
+          <a href="{{ author.author-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if author.author-instagram %}
+          <a href="{{ author.author-instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if author.author-pinterest %}
+          <a href="{{ author.author-pinterest }}" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if author.author-email %}
+          <a href="mailto:{{ author.author-email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+        </div>
+      </div>
+      {% else %}
+      <div class="post-author-image">
+        <a style="background-image: url({{"/images/" | prepend: site.baseurl | append: site.author-image}})">
+          <span class="screen-reader-text">{{site.author-name}} Picture</span>
+        </a>
+      </div>
+      <div class="post-author-info">
+        <h4>{{ site.author-name }}</h4>
+        <p class="post-author-bio">{{ site.about-author }}</p>
+        <div class="post-author-meta">
+          {% if site.twitter %}
+          <a href="{{ site.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if site.facebook %}
+          <a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if site.instagram %}
+          <a href="{{ site.instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if site.pinterest %}
+          <a href="{{ site.pinterest }}" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+          {% if site.author-email %}
+          <a href="mailto:{{ site.author-email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+          {% else %}
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
 
 
   <hr class="w3 mv5">
