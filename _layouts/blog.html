@@ -19,7 +19,6 @@
       {% endif %}
   </div>
   
-  
   <div class="w-two-thirds-ns">
   
   {{content}}
@@ -119,10 +118,23 @@
     </div>
 
 
-  <hr class="w3 mv5">
+   <div class="Previous-next f6 cf pb4">
+    {% if page.previous.url %}
+    <div class="fl w-40">
+    <span class="ttu tracked">⇜ PREVIOUS</span><br>
+      <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="fr w-40 tr">
+    <span class="ttu tracked">NEXT ⇝</span><br>
+      <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
+    </div>
+    {% endif %}
+  </div>
 
     <div class="f5 i">
-       <a href="https://tinyletter.com/">Tinyletter</a>.
+      This blog is written by Tom Critchlow, an independent strategy consultant living and working in Brooklyn, NY. If you like what you read please leave a comment below in disqus or sign up for my <a href="https://tinyletter.com/tomcritchlow">Tinyletter</a>.
     </div>
         
 {% if site.disqus-identifier %}
