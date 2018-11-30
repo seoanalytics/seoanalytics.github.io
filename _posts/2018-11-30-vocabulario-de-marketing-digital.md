@@ -1,8 +1,6 @@
 ---
 layout: blog
 title: Vocabulário de Marketing Digital
-categories:
-  - Marketing Digital
 author_staff_member:
 show_comments: true
 date: 2018-11-30 00:00:00
