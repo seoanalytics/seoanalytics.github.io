@@ -13,18 +13,6 @@
 <div class="mw8-l w-90-s center tc">
         <h2> Marketing Digital</h2>
 
-        <div class="fl w-100 w-third-l pa2 tc"><img class="h3 pa2" src="/images/clients/nyt.png" /></div>
-       
-        </div>
-</section>
-
-<section class="cf pv5">
-
-        <div class="mw6 center tc contactbox">
-            <h2><a class="no-underline tcblack" href="mailto:emailaqui">Entre em contato</a></h2>
-        </div>
-
-</section>
 
 {% if paginator.page %}
   {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
@@ -83,6 +71,12 @@
 </div> <!-- /.content-wrap -->
 
 {% include pagination.html %}
+
+     <div class="mw6 center tc contactbox">
+            <h2><a class="no-underline tcblack" href="mailto:emailaqui">Entre em contato</a></h2>
+        </div>
+
+</section>
 
 <!-- <section class="ph3 ph0-ns center w-100 pb0-l pb3">
    <div class="w-60-l center mv6-l mv3 mb0-l mb2 tombox">
