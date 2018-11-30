@@ -267,6 +267,8 @@ footer{
   float: left;
   text-align: center;
   line-height: 60px;
+  border-bottom: none;
+
 }
 
 .info-social-list li a:hover {
