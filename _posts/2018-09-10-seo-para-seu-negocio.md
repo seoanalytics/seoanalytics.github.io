@@ -6,7 +6,7 @@ img: ipad-605440-1920.jpg
 tags:
   - SEO
 categories:
-  - seo'
+  - seo
 redirect_from: 'https:seoanalytics.com.br/2017/10/09/seo-serve-para-o-seu-negocio/'
 redirect_from: 'https:seoanalytics.com.br/2017/09/10/seo-serve-para-o-seu-negocio/'
 ---
