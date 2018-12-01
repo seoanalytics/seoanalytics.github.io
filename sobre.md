@@ -1,6 +1,8 @@
 ---
 layout: blog
-title: About me
+metatitle: Experiência. Paixão. Resultados | SEOAnalytics
+title: Fabíola Faria
+subtitle: 'About me'
 ---
 
 A qualified and highly experienced technical in search engine optimization and data analytics with over 9 years of experience particularly in digital marketing serving large e-commerce clients in Brazil, such as services websites, marketplaces and institutional websites. During this period I have also gained valuable experience in leading technical teams.&nbsp;
