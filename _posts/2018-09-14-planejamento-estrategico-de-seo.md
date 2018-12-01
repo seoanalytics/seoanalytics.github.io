@@ -6,6 +6,8 @@ date: 2018-09-14 00:00:00
 img: planejamento-estrategico-seo.jpg
 tags:
   - SEO
+categories:
+  - seo
 redirect_from:
 image_path:
 ---
