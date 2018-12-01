@@ -83,8 +83,6 @@ Used Tools: Google Analytics, Search Console, DeepCrawl, SEMRush, Hrefs, SearchM
 
 ## Training and Languages
 
-&nbsp;
-
 * 2018 Alura Course: Python 2 - Programming with Python
 * 2018 Alura Course: Python 3 - Programming with Python
 * 2017 Udacity Course: Programming Foundations with Python
