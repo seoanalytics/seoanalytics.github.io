@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Últimos posts
+metatitle: SEO e Data Analytics | SEOAnalytics Blog
+title: Blog de Inteligência Digital
+subtitle: 'SEO, Estratégia Digital e Data Analytics.'
 ---
 
 {% for post in site.posts  %}
