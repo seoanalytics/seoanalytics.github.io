@@ -73,7 +73,7 @@ It is part of the daily routine:
 
 Used Tools: Google Analytics, Search Console, DeepCrawl, SEMRush, Hrefs, SearchMetrics, ScreamingFrog, PageSpeed, WebPageTest, GTmetrix, Wrike, Wordpress, Youtube Analytics, etc.
 
-[SEE MORE EXPERIENCE ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
+[SEE MY RECOMMENDATIONS ON LINKEDIN](https://www.linkedin.com/in/fabiolafaria/){: target="_blank"}
 
 ## Education
 
