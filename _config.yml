@@ -22,7 +22,7 @@ jekyll-archives:
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 1
+paginate: 3
 paginate_path: "/page/:num"
     
     
