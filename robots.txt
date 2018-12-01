@@ -1,4 +1,10 @@
----
----
-User-Agent: *
-Disallow: /data/
+# Se você trabalha com SEO e gostaria de participar do nosso time colaborativo de consultores, entre em contato!
+# Acompanhe nossas dicas sobre Consultoria de Marketing Digital no Blog!
+User-agent: *
+Allow: /consultoria/
+Allow: /blog/
+Disallow: /canon/
+Disallow: /now/
+Disallow: /treinamentos/
+
+Sitemap: https://seoanalytics.com.br/sitemap.xml
