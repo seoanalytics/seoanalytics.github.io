@@ -8,7 +8,6 @@ img: vocabulario-marketing-digital.jpg
 tags:
   - Marketing Digital
 categories:
-  - marketing-digital
 redirect_from: 2018/11/30/vocabulario-de-marketing-digital
 ---
 
