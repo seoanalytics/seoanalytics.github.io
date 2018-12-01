@@ -1,6 +1,6 @@
 ---
 layout: page
-metatitle: Digital Strategy Consulting from SEOAnalytics
+metatitle: Consultoria de SEO e Data Analytics | SEOAnalytics
 title: Consultoria de Marketing Digital
 subtitle: 'Especializada em SEO, Performance, e Data Analytics.'
 ---
