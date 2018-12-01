@@ -8,7 +8,7 @@ show_comments: true
 date: 2018-12-01 00:00:00
 img:
 tags:
-    - marketing digital
+    - Marketing Digital
 redirect_from:
 ---
 
