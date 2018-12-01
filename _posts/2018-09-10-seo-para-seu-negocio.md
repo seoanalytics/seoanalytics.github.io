@@ -6,9 +6,9 @@ img: ipad-605440-1920.jpg
 tags:
   - SEO
 categories:
-  - seo
-redirect_from: /2017/10/09/seo-serve-para-o-seu-negocio/
-redirect_from: /2017/09/10/seo-serve-para-o-seu-negocio/
+  - seo'
+redirect_from: '/2017/10/09/seo-serve-para-o-seu-negocio/'
+redirect_from: '/2017/09/10/seo-serve-para-o-seu-negocio/
 ---
 
 Você sabia que milhões de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens aéreas a salões de beleza mais próximos de suas casas. 
