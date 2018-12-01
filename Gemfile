@@ -8,7 +8,6 @@ group :jekyll_plugins do
   gem 'jekyll-paginate', '1.1.0'
   gem 'jekyll-seo-tag', '2.4.0'
   gem 'jekyll-sitemap', '1.2.0'
-  gem 'jekyll-minimagick'
   gem 'jekyll-redirect-from'
   gem 'jekyll-compress-images'
   gem 'jekyll-google-tag-manager'
