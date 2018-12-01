@@ -7,8 +7,8 @@ tags:
   - SEO
 categories:
   - seo
-redirect_from: 'https:seoanalytics.com.br/2017/10/09/seo-serve-para-o-seu-negocio/'
-redirect_from: 'https:seoanalytics.com.br/2017/09/10/seo-serve-para-o-seu-negocio/'
+redirect_from: https:seoanalytics.com.br/2017/10/09/seo-serve-para-o-seu-negocio/
+redirect_from: https:seoanalytics.com.br/2017/09/10/seo-serve-para-o-seu-negocio/
 ---
 
 Você sabia que milhões de pessoas usam o Google todos os dias? E elas pesquisam de tudo, desde passagens aéreas a salões de beleza mais próximos de suas casas. 
