@@ -8,7 +8,7 @@ tags:
   - SEO
 categories:
   - seo
-redirect_from:
+redirect_from: 2018-09-14-planejamento-estrategico-de-se
 image_path:
 ---
 
