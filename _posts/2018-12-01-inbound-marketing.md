@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: 'Inbound Marketing: Você já sabe o que é?'
 categories:
 author_staff_member:
