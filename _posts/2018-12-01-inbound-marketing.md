@@ -6,7 +6,7 @@ categories:
 author_staff_member:
 show_comments: true
 date: 2018-12-01 00:00:00
-img:
+img: inbound-marketing-estrategia.jpg
 tags:
     - Marketing Digital
 redirect_from:
