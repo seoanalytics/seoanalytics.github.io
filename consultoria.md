@@ -10,7 +10,7 @@ subtitle: 'Especializada em SEO, Performance, e Data Analytics.'
 Sabemos que hoje em dia &eacute; muito f&aacute;cil ser seduzido por lindos relat&oacute;rios e entreg&aacute;veis de ag&ecirc;ncias, mas n&oacute;s trabalhamos orientadas a dados e resultados, por isso focamos nas m&eacute;tricas que realmente importam para o seu neg&oacute;cio. N&atilde;o queremos entregar relat&oacute;rios repleto de gr&aacute;ficos bonitos, n&oacute;s queremos trazer resultados reais e sustent&aacute;veis aos nossos clientes. Por esse motivo trabalhamos de forma colaborativa com profissionais experientes no mercado para uma **Consultoria de Intelig&ecirc;ncia Digital** conforme a necessidade do seu neg&oacute;cio. Totalmente flex&iacute;vel e escal&aacute;vel, e com o melhor custo-benef&iacute;cio!
 
 <div class="mw6 center tc contactbox">
-            <h2><a class="no-underline tcblack" href="mailto:emailaqui">Solicite um orçamento</a></h2>
+            <h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Entre em contato</a></h2>
 </div>
 
 ## &nbsp;Marketing Data-driven
@@ -26,4 +26,4 @@ Trabalhamos com clientes em todas as etapas do ciclo de vida de sua estrat&eacut
 
 A Intelig&ecirc;ncia Digital est&aacute; diretamente relacionada aos dados que trabalhamos, pois n&atilde;o basta apenas gerarmos n&uacute;meros, precisamos sistematiz&aacute;-los, interpret&aacute;-los e transform&aacute;-los em informa&ccedil;&otilde;es para uma estrat&eacute;gia de sucesso. Por isso, trabalhamos colaborativamente para extrairmos informa&ccedil;&otilde;es do ciclo completo de intera&ccedil;&otilde;es do usu&aacute;rio e do cen&aacute;rio competitivo para planejar sua estrat&eacute;gia de crescimento. Se voc&ecirc; precisa de uma estrat&eacute;gia de marketing de sucesso, voc&ecirc; est&aacute; no lugar certo!
 
-<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:emailaqui">Ficou com dúvidas?</a></h2></div>
+<div class="mw6 center tc contactbox"><h2><a class="no-underline tcblack" href="mailto:contato@seoanalytics.com.br">Quero Ajuda</a></h2></div>
