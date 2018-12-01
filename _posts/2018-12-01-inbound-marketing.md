@@ -2,7 +2,6 @@
 layout: blog
 title: 'Inbound Marketing: Você já sabe o que é?'
 categories:
-    - marketing-digital
 author_staff_member:
 show_comments: true
 date: 2018-12-01 00:00:00
