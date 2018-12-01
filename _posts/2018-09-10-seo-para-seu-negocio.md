@@ -7,7 +7,7 @@ tags:
   - SEO
 categories:
   - seo'
-redirect_from: '/2017/10/09/seo-serve-para-o-seu-negocio/'
+redirect_from: 'https:seoanalytics.com.br/2017/10/09/seo-serve-para-o-seu-negocio/'
 redirect_from: '/2017/09/10/seo-serve-para-o-seu-negocio/'
 ---
 
