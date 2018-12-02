@@ -4,18 +4,18 @@
 
 {% include header.html %}
 
-<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
- 
      <div class="post-header" style="background: url({{"/images/pages/" | prepend: site.baseurl | append : page.img}})">
-      <div class="post-header-info">
+      <!-- <div class="post-header-info">
         <h1 class="post-title">{{ page.title | escape }}</h1>
         <div class="post-meta">
           <time datetime="{{ page.date | date_to_xmlschema }}">
             {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} {{ page.date | date: date_format }}
           </time>
         </div>
-      </div>
+      </div> -->
     </div>
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l">
   
   <div class="pt4 w-two-thirds-ns">
   
