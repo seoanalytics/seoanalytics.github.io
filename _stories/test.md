@@ -1,16 +1,16 @@
 ---
 layout: ampstory
-title: Testing!
+title: Marketing Digital Stories | SEOAnalytics
 date: March 15th 2018
 cover:
-   title: Testing, testing, 123
-   subtitle: <h3>Some dicking around...</h3>
+   title: SEO com Dados. Dados com Inteligência
+   subtitle: <h2>acompanhe de perto...</h2>
 pages: 
  - page-number: 1
    layout: vertical
-   top: <h1>aitch 1</h1>
-   bottom: hello world
-   image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
+   top: <h1>Dados sem Análise são apenas Dados</h1>
+   bottom:
+   image: data-analytics.jpg
  - page-number: 2
    layout: thirds
    top: Hello
