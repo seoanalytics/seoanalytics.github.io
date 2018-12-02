@@ -2,7 +2,13 @@
 layout: page
 metatitle: Consultoria de SEO e Data Analytics | SEOAnalytics
 title: Consultoria de Marketing Digital
-subtitle: 'Especializada em SEO, Performance, e Data Analytics.'
+subtitle: 'Especializada em SEO, Performance, e Data Analytics.
+redirect_from:
+    - /consultoria/bianca-alvarenga-seo-marketing/
+    - /consultoria/social-media-marina-hortela/
+    - /consultoria/marketing-specialist-ana-carolina/
+    - /consultoria/analytics-seo-fabiola-faria/
+    - /cv/fabiola-faria/
 ---
 
 ## Intelig&ecirc;ncia de Marketing Digital&nbsp;
