@@ -10,7 +10,7 @@ pages:
  - page-number: 1
    layout: vertical
    top: <h1>Dados sem Análise são apenas Dados</h1>
-   background: /images/data-analytics.jpg
+   background: /images/google-analytics-dados.jpg
  - page-number: 2
    layout: thirds
    top: <h1>🔥 Planejamento Estratégico de SEO 🔥</h1>
