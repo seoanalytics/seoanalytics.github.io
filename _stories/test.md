@@ -11,6 +11,7 @@ pages:
    layout: vertical
    top: <h1>Dados sem Análise são apenas Dados</h1>
    background: /images/pages/google-analytics-dados.jpg
+   bottom: SEOAnalytics.com.br
  - page-number: 2
    layout: thirds
    top: <h1>🔥 Planejamento Estratégico de SEO 🔥</h1>
