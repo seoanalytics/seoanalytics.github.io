@@ -7,7 +7,8 @@ img: planejamento-estrategico-seo.jpg
 tags:
   - SEO
 categories:
-redirect_from: '/seo/2018/09/14/planejamento-estrategico-de-seo'
+redirect_from:
+  - /seo/2018/09/14/planejamento-estrategico-de-seo
 image_path:
 ---
 
