@@ -42,7 +42,7 @@
             </a>
           {% endif %}
           <div class="post-body {{ body-full }}">
-            <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+            <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
             <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 20 }}{% endif %}</p>
             <a href="{{site.baseurl}}{{ post.url }}" title="read more" class="more">Leia mais</a>
           </div>
