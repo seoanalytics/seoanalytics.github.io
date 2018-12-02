@@ -13,8 +13,7 @@ pages:
    background: /images/data-analytics.jpg
  - page-number: 2
    layout: thirds
-   top: <h1>Planejamento Estratégico de SEO</h1>
-   middle: <h2>What 🔥</h2>
+   top: <h1>🔥 Planejamento Estratégico de SEO 🔥</h1>
    background: /images/planejamento-estrategico-seo.jpg
    cta:
       link: https://seoanalytics.com.br/2018/09/14/planejamento-estrategico-de-seo/
