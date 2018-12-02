@@ -10,7 +10,7 @@ pages:
    layout: vertical
    top: <h1>Dados sem Análise são apenas Dados</h1>
    bottom:
-  background: data-analytics.jpg
+   background: data-analytics.jpg
  - page-number: 2
    layout: thirds
    top: Hello
