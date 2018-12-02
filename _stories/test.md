@@ -22,7 +22,7 @@ pages:
    layout: thirds
    h1: Inbound Marketing, você sabe o que é?
    text: 
-   background: /images/inbound-marketing-estrategia.jpg
+   background: /images/pages/inbound-marketing-estrategia.jpg
    cta:
       link: https://seoanalytics.com.br/2018/12/01/inbound-marketing/
       text: Leia para saber mais!
