@@ -10,11 +10,11 @@ pages:
  - page-number: 1
    layout: vertical
    top: <h1>Dados sem Análise são apenas Dados</h1>
-   background: /images/google-analytics-dados.jpg
+   background: /images/pages/google-analytics-dados.jpg
  - page-number: 2
    layout: thirds
    top: <h1>🔥 Planejamento Estratégico de SEO 🔥</h1>
-   background: /images/planejamento-estrategico-seo.jpg
+   background: /images/pages/planejamento-estrategico-seo.jpg
    cta:
       link: https://seoanalytics.com.br/2018/09/14/planejamento-estrategico-de-seo/
       text: Faça o seu!
