@@ -20,7 +20,7 @@ pages:
       text: Faça o seu!
  - page-number: 3
    layout: thirds
-   h1: Inbound Marketing, você sabe o que é?
+   top: <h1>Inbound Marketing, você sabe o que é?</h1>
    text: 
    background: /images/pages/inbound-marketing-estrategia.jpg
    cta:
