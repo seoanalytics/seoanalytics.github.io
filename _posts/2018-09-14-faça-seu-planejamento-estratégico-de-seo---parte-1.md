@@ -24,7 +24,7 @@ Vamos nessa?
 
 Vamos exemplificar dizendo que voc&ecirc; quer atrair novos clientes para seu novo site de vendas de bonecas artesanais. Voc&ecirc; quer que seus clientes encontrem o seu site atrav&eacute;s do Google, mas n&atilde;o sabe muito bem ao certo por onde come&ccedil;ar para ganhar visibilidade org&acirc;nica. O que fazer?
 
-![](https:/seoanalytics.com.br/images/uploads/minichicbycris.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/images/uploads/minichicbycris.png)](https://www.instagram.com/minnichicbycris/)
+![](https:/seoanalytics.com.br/images/uploads/minichicbycris.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/images/uploads/minichicbycris.png)![](/uploads/minichicbycris.png)](https://www.instagram.com/minnichicbycris/)
 
 O primeiro passo &eacute; entender como o seu p&uacute;blico-alvo est&aacute; procurando por esse tipo de produto, ou seja, queremos saber qual o tipo de interesse de busca desses potenciais clientes:
 
@@ -36,7 +36,7 @@ Depois que voc&ecirc; entender melhor o que seus clientes est&atilde;o buscando,
 
 Depois de conhecer as melhores palavras-chave para o interesse do seu cliente, voc&ecirc; deve considerar tamb&eacute;m alguns conte&uacute;dos relacionados ao seu neg&oacute;cio, como por exemplo: materiais reutiliz&aacute;veis para artesanato, melhores produtos para cria&ccedil;&atilde;o de bonecas, melhores ferramentas para fabrica&ccedil;&atilde;o das suas pe&ccedil;as artesanais, e um mont&atilde;o de assuntos relacionados que voc&ecirc; poderia abordar.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)![](/uploads/keywords-everywhere-1.jpg)
 
 Voc&ecirc; consegue ver a imensid&atilde;o de oportunidades que voc&ecirc; pode encontrar para a cria&ccedil;&atilde;o de conte&uacute;dos para o seu neg&oacute;cio durante o Estudo de Palavras-chave?
 
@@ -48,11 +48,11 @@ Essa etapa dentro do **Planejamento Estrat&eacute;gico de SEO** &eacute; uma das
 
 Bom, depois que voc&ecirc; identificou as melhores palavras-chave para o objetivo do seu neg&oacute;cio, voc&ecirc; deve trabalhar os conte&uacute;dos do seu site utilizando essas palavras-chave principais e tamb&eacute;m as relacionadas para enriquecer ainda mais o seu conte&uacute;do. E assim brilhar nos resultados do Google!
 
-Claro que n&atilde;o &eacute; t&atilde;o simples assim, e toda essas etapas e mudan&ccedil;as n&atilde;o acontecem da noite para o dia, assim como voc&ecirc; tamb&eacute;m vai precisar de um Planejamento de Conte&uacute;do ou umCronograma de Publica&ccedil;&otilde;es para que voc&ecirc; possa se organizar com a frequ&ecirc;ncia de postagens dentro de um Blog, por exemplo.
+Claro que n&atilde;o &eacute; t&atilde;o simples assim, e toda essas etapas e mudan&ccedil;as n&atilde;o acontecem da noite para o dia, assim como voc&ecirc; tamb&eacute;m vai precisar de um Planejamento de Conte&uacute;do ou um Cronograma de Publica&ccedil;&otilde;es para que voc&ecirc; possa se organizar com a frequ&ecirc;ncia de postagens dentro de um Blog, por exemplo.
 
 Mas n&atilde;o &eacute; s&oacute; isso, agora que voc&ecirc; decidiu publicar novos conte&uacute;dos todos os dias voc&ecirc; tamb&eacute;m precisa acompanhar todas essas mudan&ccedil;as e o desempenho desses novos conte&uacute;dos atrav&eacute;s de ferramentas de an&aacute;lise de sites, como por exemplo o *Google Analytics e Search Console*\*, para saber se voc&ecirc; est&aacute; no caminho certo, e principalmente se a otimiza&ccedil;&atilde;o de conte&uacute;do est&aacute; realmente trazendo o resultado esperado, ou se est&aacute; bem direcionado para o objetivo do seu neg&oacute;cio.
 
-![](/images/uploads/digital-marketing-1725340-1920.jpg){: srcset="/images/uploads/digital-marketing-1725340-1920.jpg 960w, /images/uploads/digital-marketing-1725340-1920@2x.jpg 1920w"}
+![](/uploads/digital-marketing-1725340-1920.jpg)
 
 O legal at&eacute; aqui &eacute; que voc&ecirc; deve ter entendido que o Planejamento Estrat&eacute;gico de SEO &eacute; uma etapa indispens&aacute;vel para o seu neg&oacute;cio porque ele pode te ajudar a descobrir o que realmente vai funcionar no seu site e o que n&atilde;o vai. E depois de acompanhar o desempenho das a&ccedil;&otilde;es de SEO &eacute; important&iacute;ssimo avaliar novas oportunidades de melhorias para obter resultados ainda melhores.
 
