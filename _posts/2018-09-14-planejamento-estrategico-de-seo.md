@@ -34,7 +34,7 @@ Depois que voc&ecirc; entender melhor o que seus clientes est&atilde;o buscando,
 
 Depois de conhecer as melhores palavras-chave para o interesse do seu cliente, voc&ecirc; deve considerar tamb&eacute;m alguns conte&uacute;dos relacionados ao seu neg&oacute;cio, como por exemplo: materiais reutiliz&aacute;veis para artesanato, melhores produtos para cria&ccedil;&atilde;o de bonecas, melhores ferramentas para fabrica&ccedil;&atilde;o das suas pe&ccedil;as artesanais, e um mont&atilde;o de assuntos relacionados que voc&ecirc; poderia abordar.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)![](/uploads/keywords-everywhere-1.jpg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/images/uploads/keywords-everywhere.jpg)![](/uploads/keywords-everywhere-1.jpg)
 
 Voc&ecirc; consegue ver a imensid&atilde;o de oportunidades que voc&ecirc; pode encontrar para a cria&ccedil;&atilde;o de conte&uacute;dos para o seu neg&oacute;cio durante o Estudo de Palavras-chave?
 
@@ -50,7 +50,7 @@ Claro que n&atilde;o &eacute; t&atilde;o simples assim, e toda essas etapas e mu
 
 Mas n&atilde;o &eacute; s&oacute; isso, agora que voc&ecirc; decidiu publicar novos conte&uacute;dos todos os dias voc&ecirc; tamb&eacute;m precisa acompanhar todas essas mudan&ccedil;as e o desempenho desses novos conte&uacute;dos atrav&eacute;s de ferramentas de an&aacute;lise de sites, como por exemplo o *Google Analytics e Search Console*\*, para saber se voc&ecirc; est&aacute; no caminho certo, e principalmente se a otimiza&ccedil;&atilde;o de conte&uacute;do est&aacute; realmente trazendo o resultado esperado, ou se est&aacute; bem direcionado para o objetivo do seu neg&oacute;cio.
 
-![](/digital-marketing-analytics.jpg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/digital-marketing-analytics.jpg)
 
 O legal at&eacute; aqui &eacute; que voc&ecirc; deve ter entendido que o Planejamento Estrat&eacute;gico de SEO &eacute; uma etapa indispens&aacute;vel para o seu neg&oacute;cio porque ele pode te ajudar a descobrir o que realmente vai funcionar no seu site e o que n&atilde;o vai. E depois de acompanhar o desempenho das a&ccedil;&otilde;es de SEO &eacute; important&iacute;ssimo avaliar novas oportunidades de melhorias para obter resultados ainda melhores.
 
