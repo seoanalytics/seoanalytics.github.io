@@ -1,10 +1,11 @@
 ---
 layout: ampstory
 title: Marketing Digital Stories | SEOAnalytics
-date: March 15th 2018
+date: December 3rd 2018
 cover:
    title: SEO com Dados. Dados com Inteligência
    subtitle: <h2>acompanhe de perto...</h2>
+   background: /images/planejamento-estrategico-seo.jpg
 pages: 
  - page-number: 1
    layout: vertical
@@ -12,12 +13,12 @@ pages:
    background: /images/data-analytics.jpg
  - page-number: 2
    layout: thirds
-   top: Hello
+   top: <h1>Planejamento Estratégico de SEO</h1>
    middle: <h2>What 🔥</h2>
-   background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
+   background: /images/planejamento-estrategico-seo.jpg
    cta:
-      link: https://tomcritchlow.com
-      text: this is a cta!
+      link: https://seoanalytics.com.br/2018/09/14/planejamento-estrategico-de-seo/
+      text: Faça o seu!
  - page-number: 3
    layout: thirds
    h1: 
