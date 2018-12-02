@@ -5,7 +5,7 @@ date: December 3rd 2018
 cover:
    title: SEO com Dados. Dados com Inteligência
    subtitle: <h2>acompanhe de perto...</h2>
-   background: /images/planejamento-estrategico-seo.jpg
+   background: /images/pages/estrategia-marketing.jpg
 pages: 
  - page-number: 1
    layout: vertical
