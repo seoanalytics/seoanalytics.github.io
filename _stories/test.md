@@ -8,7 +8,7 @@ cover:
    background: /images/data-analytics.jpg
 pages: 
  - page-number: 1
-   layout: vertical
+   layout: thirds
    top: <h1>Dados sem Análise são apenas Dados</h1>
    background: /images/pages/google-analytics-dados.jpg
    bottom: SEOAnalytics.com.br
