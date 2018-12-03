@@ -4,7 +4,7 @@ title: Marketing Digital Stories | SEOAnalytics
 date: December 3rd 2018
 cover:
    title: SEO com Dados. Dados com Inteligência
-   subtitle: <h2>acompanhe de perto...</h2>
+   subtitle: <h2>acompanhe SEOAnalytics</h2>
    background: /images/data-analytics.jpg
 pages: 
  - page-number: 1
