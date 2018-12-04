@@ -9,6 +9,7 @@ redirect_from:
     - /consultoria/marketing-specialist-ana-carolina/
     - /consultoria/analytics-seo-fabiola-faria/
     - /cv/fabiola-faria/
+    - /contato
 ---
 
 ## Intelig&ecirc;ncia de Marketing Digital&nbsp;
