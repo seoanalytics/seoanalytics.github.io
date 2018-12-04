@@ -9,6 +9,7 @@ tags:
 categories:
 redirect_from:
   - /seo/2018/09/14/planejamento-estrategico-de-seo/
+  - /blog/seo/planejamento-estrategico-seo
 image_path:
 ---
 
