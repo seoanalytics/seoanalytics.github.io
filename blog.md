@@ -3,6 +3,10 @@ layout: page
 metatitle: SEO e Data Analytics | SEOAnalytics Blog
 title: Blog de Inteligência Digital
 subtitle: 'SEO, Estratégia Digital e Data Analytics.'
+redirect_from:
+    - /blog/marketing-digital/
+    - /blog/storytelling
+    - /blog/seo/
 ---
 
 {% for post in site.posts  %}
