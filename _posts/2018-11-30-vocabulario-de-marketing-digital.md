@@ -9,6 +9,7 @@ tags:
   - Marketing Digital
 categories:
 redirect_from:
+    - /blog/marketing-digital/vocabulario-marketing-digital
 ---
 
 ## API, CPC, CTA, KPIS?
