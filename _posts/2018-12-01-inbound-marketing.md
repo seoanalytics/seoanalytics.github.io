@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: 'Inbound Marketing: Você já sabe o que é?'
+permalink: /inbound-marketing/
 categories:
 author_staff_member:
 show_comments: true
@@ -9,6 +10,7 @@ img: inbound-marketing-estrategia.jpg
 tags:
     - Marketing Digital
 redirect_from:
+  - /2018/12/01/inbound-marketing/
 ---
 
 Voc&ecirc; nem precisa ser um profissional de marketing para perceber que o modo que as pessoas compram e consomem mudou muito nos &uacute;ltimos anos.
