@@ -9,6 +9,7 @@ tags:
 categories:
 redirect_from:
   - /2017/10/09/seo-serve-para-o-seu-negocio/
+  - /2018/10/09/seo-serve-para-o-seu-negocio/
   - /blog/seo/seo-para-seu-negocio
 ---
 
