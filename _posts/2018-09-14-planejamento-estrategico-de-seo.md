@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Faça seu Planejamento Estratégico de SEO - Parte 1
+permalink: /planejamento-estrategico-de-seo/
 show_comments: true
 date: 2018-09-14 00:00:00
 img: planejamento-estrategico-seo.jpg
@@ -10,6 +11,7 @@ categories:
 redirect_from:
   - /seo/2018/09/14/planejamento-estrategico-de-seo/
   - /blog/seo/planejamento-estrategico-seo
+  - /2018/09/14/planejamento-estrategico-de-seo/
 image_path:
 ---
 
