@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Vocabulário de Marketing Digital
+permalink: /vocabulario-de-marketing-digital/
 author_staff_member:
 show_comments: true
 date: 2018-11-30 00:00:00
@@ -10,6 +11,7 @@ tags:
 categories:
 redirect_from:
     - /blog/marketing-digital/vocabulario-marketing-digital
+    - /2018/11/30/vocabulario-de-marketing-digital/
 ---
 
 ## API, CPC, CTA, KPIS?
