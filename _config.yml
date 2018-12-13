@@ -23,7 +23,7 @@ jekyll-archives:
 markdown: kramdown
 permalink: pretty
 paginate: 3
-paginate_path: "/page/:num"
+paginate_path: "/:title/"
     
     
 # Banner Section
