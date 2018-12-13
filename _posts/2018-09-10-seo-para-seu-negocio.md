@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: SEO serve para o seu negócio?
+permalink: /seo-para-seu-negocio/
 date: 2018-09-10 14:33:00
 img: ipad-605440-1920.jpg
 tags:
